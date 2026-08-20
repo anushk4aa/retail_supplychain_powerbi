@@ -1,0 +1,2501 @@
+CustomerKey,Segment,Region,SignupDate
+CUS00001,Small Business,North,2023-01-08
+CUS00002,Consumer,South,2023-06-28
+CUS00003,Corporate,East,2024-12-27
+CUS00004,Consumer,East,2021-06-20
+CUS00005,Consumer,North,2022-10-19
+CUS00006,Small Business,Central,2021-05-14
+CUS00007,Consumer,South,2025-08-20
+CUS00008,Consumer,South,2021-12-05
+CUS00009,Consumer,North,2025-02-05
+CUS00010,Small Business,Central,2021-12-15
+CUS00011,Consumer,South,2022-08-15
+CUS00012,Consumer,Central,2024-01-16
+CUS00013,Small Business,East,2025-02-26
+CUS00014,Corporate,Central,2021-11-21
+CUS00015,Consumer,North,2022-01-24
+CUS00016,Consumer,North,2025-05-29
+CUS00017,Consumer,Central,2022-08-11
+CUS00018,Consumer,Central,2022-01-18
+CUS00019,Consumer,East,2024-09-18
+CUS00020,Consumer,North,2021-06-16
+CUS00021,Consumer,Central,2025-05-02
+CUS00022,Consumer,South,2025-05-18
+CUS00023,Consumer,Central,2025-04-13
+CUS00024,Consumer,Central,2022-06-23
+CUS00025,Consumer,Central,2021-07-28
+CUS00026,Small Business,West,2023-02-16
+CUS00027,Consumer,West,2022-09-03
+CUS00028,Small Business,East,2025-10-17
+CUS00029,Consumer,North,2024-02-27
+CUS00030,Consumer,South,2025-09-20
+CUS00031,Corporate,West,2024-10-02
+CUS00032,Consumer,Central,2024-07-28
+CUS00033,Consumer,East,2021-07-24
+CUS00034,Consumer,West,2021-05-06
+CUS00035,Consumer,North,2021-03-26
+CUS00036,Corporate,East,2023-12-19
+CUS00037,Consumer,East,2022-01-04
+CUS00038,Corporate,Central,2025-12-11
+CUS00039,Consumer,South,2021-08-31
+CUS00040,Consumer,South,2025-09-25
+CUS00041,Consumer,South,2024-05-03
+CUS00042,Consumer,North,2021-07-13
+CUS00043,Consumer,East,2021-04-17
+CUS00044,Consumer,West,2022-12-24
+CUS00045,Corporate,Central,2022-09-11
+CUS00046,Consumer,Central,2022-07-30
+CUS00047,Corporate,North,2023-08-23
+CUS00048,Small Business,South,2021-08-25
+CUS00049,Consumer,South,2021-08-25
+CUS00050,Small Business,South,2024-06-22
+CUS00051,Consumer,Central,2025-12-13
+CUS00052,Consumer,North,2022-05-15
+CUS00053,Small Business,North,2025-08-28
+CUS00054,Small Business,Central,2022-09-22
+CUS00055,Consumer,Central,2022-09-05
+CUS00056,Consumer,South,2021-06-14
+CUS00057,Consumer,South,2023-02-12
+CUS00058,Small Business,East,2023-06-28
+CUS00059,Consumer,East,2024-04-26
+CUS00060,Consumer,Central,2021-10-16
+CUS00061,Consumer,East,2021-12-11
+CUS00062,Consumer,North,2023-02-28
+CUS00063,Consumer,East,2021-05-08
+CUS00064,Small Business,East,2021-09-19
+CUS00065,Consumer,East,2024-02-23
+CUS00066,Consumer,East,2025-10-07
+CUS00067,Consumer,Central,2023-11-12
+CUS00068,Small Business,Central,2021-09-22
+CUS00069,Small Business,South,2025-12-14
+CUS00070,Consumer,South,2023-08-11
+CUS00071,Consumer,West,2024-08-01
+CUS00072,Consumer,East,2021-12-26
+CUS00073,Consumer,East,2023-11-22
+CUS00074,Small Business,North,2021-05-20
+CUS00075,Consumer,South,2024-02-16
+CUS00076,Consumer,West,2022-01-05
+CUS00077,Corporate,Central,2025-07-18
+CUS00078,Consumer,West,2021-04-10
+CUS00079,Consumer,South,2024-04-06
+CUS00080,Consumer,North,2021-09-12
+CUS00081,Consumer,North,2024-06-07
+CUS00082,Consumer,South,2023-06-20
+CUS00083,Consumer,East,2025-11-01
+CUS00084,Consumer,Central,2024-04-04
+CUS00085,Consumer,Central,2022-11-10
+CUS00086,Consumer,North,2021-06-09
+CUS00087,Consumer,West,2023-12-24
+CUS00088,Consumer,South,2023-03-16
+CUS00089,Consumer,North,2021-04-06
+CUS00090,Consumer,East,2023-11-27
+CUS00091,Small Business,North,2022-01-19
+CUS00092,Small Business,South,2022-03-04
+CUS00093,Consumer,East,2021-01-17
+CUS00094,Consumer,South,2022-11-11
+CUS00095,Consumer,East,2022-02-03
+CUS00096,Consumer,East,2021-05-12
+CUS00097,Consumer,West,2023-03-04
+CUS00098,Consumer,North,2022-02-06
+CUS00099,Consumer,North,2021-09-02
+CUS00100,Consumer,East,2023-05-02
+CUS00101,Consumer,South,2021-04-26
+CUS00102,Consumer,West,2025-12-13
+CUS00103,Small Business,North,2023-05-10
+CUS00104,Consumer,East,2025-12-24
+CUS00105,Corporate,Central,2025-05-28
+CUS00106,Consumer,North,2025-11-23
+CUS00107,Small Business,South,2023-09-18
+CUS00108,Small Business,Central,2023-02-12
+CUS00109,Corporate,East,2024-08-06
+CUS00110,Small Business,North,2021-05-28
+CUS00111,Small Business,South,2025-03-14
+CUS00112,Consumer,West,2022-08-14
+CUS00113,Small Business,Central,2021-01-14
+CUS00114,Consumer,South,2022-03-10
+CUS00115,Consumer,East,2022-03-19
+CUS00116,Consumer,West,2021-01-26
+CUS00117,Small Business,North,2024-05-05
+CUS00118,Consumer,South,2021-06-23
+CUS00119,Consumer,West,2025-03-26
+CUS00120,Consumer,North,2023-04-08
+CUS00121,Consumer,West,2024-08-03
+CUS00122,Consumer,East,2022-09-12
+CUS00123,Consumer,Central,2021-08-29
+CUS00124,Consumer,North,2021-11-26
+CUS00125,Consumer,Central,2024-03-24
+CUS00126,Consumer,South,2024-07-30
+CUS00127,Consumer,North,2022-05-04
+CUS00128,Consumer,West,2022-10-14
+CUS00129,Consumer,East,2025-09-21
+CUS00130,Consumer,Central,2025-04-04
+CUS00131,Consumer,North,2023-01-24
+CUS00132,Corporate,North,2022-03-16
+CUS00133,Small Business,East,2022-07-04
+CUS00134,Consumer,Central,2023-09-10
+CUS00135,Consumer,East,2023-11-01
+CUS00136,Consumer,West,2021-12-03
+CUS00137,Small Business,Central,2021-05-01
+CUS00138,Consumer,Central,2023-06-23
+CUS00139,Small Business,East,2024-12-26
+CUS00140,Consumer,West,2021-10-06
+CUS00141,Consumer,East,2023-01-16
+CUS00142,Consumer,West,2021-10-22
+CUS00143,Small Business,East,2022-03-18
+CUS00144,Consumer,East,2024-01-23
+CUS00145,Consumer,East,2022-06-07
+CUS00146,Small Business,West,2022-04-27
+CUS00147,Consumer,West,2025-12-23
+CUS00148,Consumer,Central,2021-11-11
+CUS00149,Consumer,West,2021-12-12
+CUS00150,Small Business,North,2025-08-24
+CUS00151,Consumer,East,2023-10-02
+CUS00152,Corporate,South,2021-03-20
+CUS00153,Consumer,North,2023-02-15
+CUS00154,Corporate,North,2023-10-29
+CUS00155,Small Business,East,2022-04-08
+CUS00156,Consumer,Central,2023-09-28
+CUS00157,Small Business,East,2024-03-29
+CUS00158,Small Business,East,2022-04-03
+CUS00159,Corporate,North,2025-01-22
+CUS00160,Consumer,West,2023-04-07
+CUS00161,Consumer,North,2025-10-25
+CUS00162,Consumer,Central,2021-06-10
+CUS00163,Consumer,Central,2022-08-15
+CUS00164,Consumer,Central,2024-08-09
+CUS00165,Consumer,South,2025-06-22
+CUS00166,Consumer,North,2022-02-09
+CUS00167,Consumer,South,2025-11-24
+CUS00168,Consumer,West,2021-12-19
+CUS00169,Small Business,South,2023-01-30
+CUS00170,Small Business,Central,2022-07-29
+CUS00171,Consumer,North,2023-02-14
+CUS00172,Consumer,North,2025-07-05
+CUS00173,Corporate,South,2024-08-29
+CUS00174,Consumer,West,2024-12-24
+CUS00175,Consumer,West,2022-04-09
+CUS00176,Consumer,South,2025-09-25
+CUS00177,Consumer,West,2023-03-06
+CUS00178,Consumer,West,2024-04-04
+CUS00179,Small Business,East,2024-06-27
+CUS00180,Consumer,East,2024-04-24
+CUS00181,Consumer,North,2024-01-04
+CUS00182,Small Business,South,2023-05-27
+CUS00183,Small Business,East,2024-03-27
+CUS00184,Consumer,North,2025-07-10
+CUS00185,Consumer,East,2022-12-13
+CUS00186,Consumer,North,2023-07-22
+CUS00187,Consumer,West,2021-11-25
+CUS00188,Consumer,North,2022-10-10
+CUS00189,Corporate,North,2024-11-09
+CUS00190,Consumer,West,2024-03-14
+CUS00191,Consumer,South,2022-01-21
+CUS00192,Small Business,South,2023-09-24
+CUS00193,Consumer,South,2025-01-21
+CUS00194,Corporate,South,2021-08-15
+CUS00195,Small Business,West,2021-04-24
+CUS00196,Consumer,West,2022-12-18
+CUS00197,Consumer,South,2024-04-13
+CUS00198,Corporate,West,2022-07-26
+CUS00199,Consumer,West,2025-02-07
+CUS00200,Corporate,East,2025-03-26
+CUS00201,Consumer,East,2023-08-30
+CUS00202,Small Business,Central,2022-11-23
+CUS00203,Consumer,East,2021-03-18
+CUS00204,Consumer,South,2025-02-08
+CUS00205,Consumer,East,2025-06-22
+CUS00206,Consumer,Central,2023-03-19
+CUS00207,Consumer,West,2023-08-01
+CUS00208,Consumer,North,2024-10-07
+CUS00209,Small Business,East,2024-06-23
+CUS00210,Consumer,West,2021-09-04
+CUS00211,Consumer,South,2024-05-11
+CUS00212,Consumer,Central,2025-08-15
+CUS00213,Consumer,Central,2024-10-02
+CUS00214,Small Business,Central,2023-05-28
+CUS00215,Small Business,North,2023-08-13
+CUS00216,Consumer,East,2022-04-20
+CUS00217,Corporate,East,2024-04-20
+CUS00218,Small Business,West,2022-03-17
+CUS00219,Consumer,Central,2022-09-16
+CUS00220,Small Business,South,2022-04-29
+CUS00221,Consumer,East,2022-09-04
+CUS00222,Corporate,West,2022-11-01
+CUS00223,Consumer,West,2021-06-01
+CUS00224,Consumer,West,2024-08-02
+CUS00225,Consumer,South,2023-03-16
+CUS00226,Small Business,Central,2025-09-30
+CUS00227,Consumer,North,2021-11-27
+CUS00228,Consumer,East,2024-05-05
+CUS00229,Consumer,West,2021-11-24
+CUS00230,Small Business,North,2023-09-26
+CUS00231,Consumer,East,2023-06-15
+CUS00232,Small Business,East,2023-03-30
+CUS00233,Consumer,West,2024-04-09
+CUS00234,Consumer,North,2025-02-20
+CUS00235,Consumer,South,2022-08-02
+CUS00236,Consumer,South,2025-03-31
+CUS00237,Consumer,West,2021-12-04
+CUS00238,Small Business,South,2022-06-19
+CUS00239,Consumer,East,2022-07-21
+CUS00240,Small Business,West,2025-10-06
+CUS00241,Consumer,West,2021-08-05
+CUS00242,Small Business,North,2022-12-23
+CUS00243,Corporate,Central,2023-02-14
+CUS00244,Small Business,North,2024-12-31
+CUS00245,Consumer,North,2023-06-06
+CUS00246,Small Business,North,2025-10-31
+CUS00247,Consumer,South,2024-09-13
+CUS00248,Consumer,Central,2024-07-08
+CUS00249,Consumer,South,2024-10-06
+CUS00250,Consumer,West,2021-10-22
+CUS00251,Small Business,East,2023-03-31
+CUS00252,Consumer,North,2023-12-06
+CUS00253,Small Business,East,2022-01-16
+CUS00254,Consumer,North,2021-08-05
+CUS00255,Small Business,East,2021-09-05
+CUS00256,Consumer,East,2024-12-11
+CUS00257,Consumer,East,2024-04-13
+CUS00258,Consumer,South,2022-05-29
+CUS00259,Corporate,West,2024-09-07
+CUS00260,Consumer,East,2024-06-22
+CUS00261,Consumer,South,2025-01-30
+CUS00262,Consumer,East,2025-07-19
+CUS00263,Consumer,North,2025-05-30
+CUS00264,Small Business,Central,2021-11-27
+CUS00265,Consumer,West,2024-11-04
+CUS00266,Consumer,South,2022-12-18
+CUS00267,Consumer,West,2023-01-06
+CUS00268,Consumer,West,2024-03-26
+CUS00269,Corporate,West,2024-01-04
+CUS00270,Consumer,North,2023-02-05
+CUS00271,Small Business,Central,2025-12-30
+CUS00272,Consumer,Central,2021-11-16
+CUS00273,Consumer,Central,2021-06-26
+CUS00274,Consumer,Central,2021-02-23
+CUS00275,Corporate,Central,2025-01-25
+CUS00276,Consumer,West,2023-01-13
+CUS00277,Consumer,North,2023-03-10
+CUS00278,Consumer,East,2024-03-30
+CUS00279,Consumer,South,2023-03-06
+CUS00280,Corporate,South,2023-11-14
+CUS00281,Consumer,Central,2021-04-17
+CUS00282,Consumer,Central,2021-10-13
+CUS00283,Consumer,East,2025-08-28
+CUS00284,Consumer,West,2023-04-03
+CUS00285,Consumer,North,2021-11-02
+CUS00286,Consumer,South,2022-11-06
+CUS00287,Consumer,Central,2022-09-03
+CUS00288,Consumer,East,2022-05-16
+CUS00289,Consumer,East,2022-06-20
+CUS00290,Consumer,East,2024-08-23
+CUS00291,Consumer,South,2021-07-14
+CUS00292,Consumer,Central,2022-07-20
+CUS00293,Consumer,West,2023-05-05
+CUS00294,Consumer,West,2023-09-13
+CUS00295,Consumer,South,2025-05-26
+CUS00296,Consumer,West,2025-08-12
+CUS00297,Consumer,Central,2022-06-27
+CUS00298,Consumer,West,2023-09-12
+CUS00299,Consumer,East,2021-02-10
+CUS00300,Consumer,South,2024-02-01
+CUS00301,Consumer,East,2021-10-07
+CUS00302,Consumer,South,2021-05-14
+CUS00303,Consumer,West,2024-05-10
+CUS00304,Consumer,North,2021-11-22
+CUS00305,Consumer,North,2023-05-22
+CUS00306,Consumer,West,2021-07-04
+CUS00307,Small Business,South,2024-09-22
+CUS00308,Consumer,East,2024-10-27
+CUS00309,Consumer,East,2023-11-16
+CUS00310,Consumer,East,2025-03-06
+CUS00311,Consumer,West,2023-03-09
+CUS00312,Consumer,South,2021-12-07
+CUS00313,Small Business,West,2021-10-04
+CUS00314,Small Business,South,2022-02-05
+CUS00315,Corporate,South,2022-01-01
+CUS00316,Consumer,East,2022-08-13
+CUS00317,Consumer,Central,2022-01-27
+CUS00318,Small Business,South,2023-12-15
+CUS00319,Consumer,East,2021-09-28
+CUS00320,Small Business,North,2024-02-09
+CUS00321,Consumer,North,2022-09-02
+CUS00322,Consumer,West,2024-06-07
+CUS00323,Consumer,West,2023-07-26
+CUS00324,Small Business,South,2025-07-10
+CUS00325,Consumer,West,2023-03-14
+CUS00326,Consumer,South,2022-06-23
+CUS00327,Consumer,South,2023-12-12
+CUS00328,Consumer,East,2024-04-17
+CUS00329,Consumer,South,2023-03-13
+CUS00330,Small Business,Central,2023-10-19
+CUS00331,Consumer,East,2023-05-10
+CUS00332,Small Business,South,2022-07-13
+CUS00333,Small Business,East,2022-07-27
+CUS00334,Consumer,West,2025-07-15
+CUS00335,Consumer,South,2024-05-17
+CUS00336,Consumer,Central,2021-06-24
+CUS00337,Consumer,East,2025-10-22
+CUS00338,Consumer,West,2024-07-23
+CUS00339,Corporate,Central,2021-04-02
+CUS00340,Corporate,East,2024-08-21
+CUS00341,Small Business,North,2023-12-13
+CUS00342,Consumer,West,2025-07-29
+CUS00343,Consumer,North,2023-06-13
+CUS00344,Consumer,East,2023-08-05
+CUS00345,Consumer,Central,2022-07-29
+CUS00346,Consumer,East,2022-08-10
+CUS00347,Consumer,West,2024-02-02
+CUS00348,Consumer,East,2025-02-19
+CUS00349,Consumer,South,2025-06-14
+CUS00350,Consumer,South,2024-11-07
+CUS00351,Consumer,East,2024-01-18
+CUS00352,Small Business,North,2023-07-03
+CUS00353,Corporate,East,2022-09-12
+CUS00354,Consumer,East,2024-11-02
+CUS00355,Small Business,Central,2022-08-04
+CUS00356,Corporate,North,2022-05-04
+CUS00357,Consumer,Central,2025-05-03
+CUS00358,Consumer,East,2023-12-12
+CUS00359,Consumer,West,2022-10-09
+CUS00360,Consumer,East,2025-04-28
+CUS00361,Small Business,South,2025-10-23
+CUS00362,Consumer,Central,2022-08-04
+CUS00363,Consumer,South,2023-08-10
+CUS00364,Consumer,North,2023-06-02
+CUS00365,Consumer,West,2024-07-04
+CUS00366,Small Business,West,2025-10-02
+CUS00367,Consumer,Central,2023-09-29
+CUS00368,Consumer,East,2024-12-27
+CUS00369,Consumer,North,2023-12-23
+CUS00370,Consumer,North,2025-06-07
+CUS00371,Consumer,East,2023-01-09
+CUS00372,Consumer,South,2022-12-05
+CUS00373,Consumer,Central,2023-02-10
+CUS00374,Consumer,North,2025-12-24
+CUS00375,Small Business,Central,2024-01-21
+CUS00376,Consumer,South,2021-10-06
+CUS00377,Consumer,North,2021-03-16
+CUS00378,Consumer,South,2023-08-05
+CUS00379,Small Business,North,2025-01-10
+CUS00380,Consumer,East,2023-05-25
+CUS00381,Consumer,South,2023-10-20
+CUS00382,Consumer,East,2024-12-28
+CUS00383,Consumer,East,2023-08-01
+CUS00384,Small Business,North,2025-07-17
+CUS00385,Consumer,North,2024-03-10
+CUS00386,Small Business,North,2024-08-27
+CUS00387,Small Business,North,2024-11-27
+CUS00388,Consumer,North,2024-02-18
+CUS00389,Small Business,South,2021-04-02
+CUS00390,Consumer,East,2023-02-20
+CUS00391,Small Business,South,2021-09-16
+CUS00392,Consumer,South,2023-07-21
+CUS00393,Consumer,East,2021-09-19
+CUS00394,Consumer,East,2023-07-19
+CUS00395,Consumer,South,2022-09-20
+CUS00396,Consumer,South,2021-02-07
+CUS00397,Small Business,East,2021-08-16
+CUS00398,Consumer,North,2023-07-08
+CUS00399,Consumer,East,2021-05-24
+CUS00400,Consumer,Central,2025-04-12
+CUS00401,Consumer,South,2024-10-16
+CUS00402,Consumer,North,2024-07-18
+CUS00403,Corporate,West,2021-11-11
+CUS00404,Consumer,North,2024-12-23
+CUS00405,Consumer,North,2024-03-04
+CUS00406,Consumer,North,2022-12-14
+CUS00407,Consumer,Central,2021-01-01
+CUS00408,Consumer,Central,2023-08-24
+CUS00409,Consumer,East,2024-12-23
+CUS00410,Consumer,West,2021-03-03
+CUS00411,Corporate,West,2021-04-07
+CUS00412,Consumer,West,2022-11-30
+CUS00413,Consumer,East,2023-07-23
+CUS00414,Small Business,Central,2023-05-16
+CUS00415,Small Business,West,2023-02-17
+CUS00416,Small Business,North,2022-04-11
+CUS00417,Corporate,South,2021-04-20
+CUS00418,Small Business,Central,2021-02-27
+CUS00419,Small Business,East,2021-06-30
+CUS00420,Consumer,South,2024-06-13
+CUS00421,Small Business,Central,2024-12-05
+CUS00422,Consumer,West,2023-03-06
+CUS00423,Consumer,East,2021-05-22
+CUS00424,Consumer,East,2023-01-29
+CUS00425,Corporate,North,2025-12-04
+CUS00426,Corporate,South,2022-04-02
+CUS00427,Consumer,East,2023-06-16
+CUS00428,Small Business,Central,2023-09-09
+CUS00429,Small Business,South,2022-08-26
+CUS00430,Consumer,North,2023-03-11
+CUS00431,Consumer,East,2023-05-11
+CUS00432,Consumer,Central,2023-05-16
+CUS00433,Small Business,East,2024-08-02
+CUS00434,Consumer,South,2023-11-27
+CUS00435,Corporate,West,2021-04-08
+CUS00436,Consumer,West,2021-01-12
+CUS00437,Corporate,South,2023-01-20
+CUS00438,Consumer,Central,2025-07-15
+CUS00439,Small Business,East,2021-03-09
+CUS00440,Consumer,North,2021-05-10
+CUS00441,Consumer,East,2024-05-24
+CUS00442,Small Business,Central,2023-04-03
+CUS00443,Corporate,South,2022-02-25
+CUS00444,Small Business,East,2022-01-14
+CUS00445,Consumer,West,2024-04-28
+CUS00446,Consumer,West,2023-08-14
+CUS00447,Consumer,Central,2024-03-10
+CUS00448,Consumer,North,2022-05-27
+CUS00449,Consumer,East,2023-08-19
+CUS00450,Consumer,East,2025-04-19
+CUS00451,Small Business,North,2022-08-01
+CUS00452,Small Business,West,2022-12-25
+CUS00453,Small Business,North,2021-10-26
+CUS00454,Small Business,East,2024-03-11
+CUS00455,Consumer,South,2021-03-01
+CUS00456,Consumer,North,2022-03-31
+CUS00457,Consumer,Central,2024-07-25
+CUS00458,Small Business,South,2021-02-05
+CUS00459,Consumer,South,2025-12-11
+CUS00460,Consumer,Central,2023-01-08
+CUS00461,Consumer,Central,2022-12-29
+CUS00462,Consumer,North,2023-09-07
+CUS00463,Consumer,South,2024-03-12
+CUS00464,Small Business,West,2023-04-19
+CUS00465,Consumer,West,2025-06-02
+CUS00466,Consumer,Central,2025-10-22
+CUS00467,Small Business,East,2022-01-01
+CUS00468,Consumer,North,2024-07-13
+CUS00469,Small Business,Central,2022-07-04
+CUS00470,Consumer,North,2025-12-23
+CUS00471,Consumer,North,2022-04-08
+CUS00472,Consumer,West,2022-06-23
+CUS00473,Consumer,West,2024-07-27
+CUS00474,Small Business,North,2024-12-11
+CUS00475,Consumer,North,2021-08-23
+CUS00476,Consumer,East,2023-10-11
+CUS00477,Consumer,South,2022-09-23
+CUS00478,Consumer,West,2024-01-22
+CUS00479,Small Business,East,2023-10-14
+CUS00480,Corporate,East,2025-12-05
+CUS00481,Consumer,East,2025-08-31
+CUS00482,Consumer,South,2024-04-08
+CUS00483,Consumer,South,2024-05-24
+CUS00484,Consumer,West,2025-06-29
+CUS00485,Corporate,East,2021-12-01
+CUS00486,Consumer,East,2024-08-17
+CUS00487,Consumer,East,2024-11-10
+CUS00488,Consumer,South,2021-08-21
+CUS00489,Small Business,Central,2025-05-28
+CUS00490,Consumer,East,2024-06-30
+CUS00491,Consumer,West,2022-09-26
+CUS00492,Consumer,Central,2023-06-03
+CUS00493,Consumer,Central,2023-06-13
+CUS00494,Consumer,West,2025-08-04
+CUS00495,Consumer,West,2025-11-04
+CUS00496,Consumer,East,2025-01-12
+CUS00497,Consumer,West,2024-04-05
+CUS00498,Consumer,South,2021-07-10
+CUS00499,Consumer,West,2025-07-28
+CUS00500,Corporate,North,2021-09-02
+CUS00501,Small Business,Central,2021-11-01
+CUS00502,Consumer,South,2021-05-08
+CUS00503,Consumer,West,2025-09-26
+CUS00504,Small Business,North,2023-06-20
+CUS00505,Consumer,North,2022-03-07
+CUS00506,Consumer,Central,2021-05-28
+CUS00507,Small Business,Central,2023-01-22
+CUS00508,Consumer,South,2024-08-13
+CUS00509,Small Business,North,2025-12-21
+CUS00510,Consumer,Central,2023-10-06
+CUS00511,Consumer,Central,2024-01-14
+CUS00512,Consumer,North,2025-03-06
+CUS00513,Consumer,West,2025-07-04
+CUS00514,Consumer,South,2022-05-26
+CUS00515,Consumer,West,2025-12-16
+CUS00516,Small Business,East,2023-08-06
+CUS00517,Consumer,North,2025-08-25
+CUS00518,Consumer,South,2021-08-03
+CUS00519,Small Business,East,2021-06-27
+CUS00520,Small Business,West,2025-06-03
+CUS00521,Consumer,North,2024-05-12
+CUS00522,Consumer,Central,2021-11-16
+CUS00523,Corporate,West,2025-06-22
+CUS00524,Consumer,Central,2021-07-06
+CUS00525,Small Business,Central,2024-05-30
+CUS00526,Small Business,North,2022-01-10
+CUS00527,Small Business,North,2021-05-09
+CUS00528,Consumer,West,2025-01-11
+CUS00529,Consumer,North,2025-03-27
+CUS00530,Consumer,North,2021-07-13
+CUS00531,Consumer,East,2021-06-19
+CUS00532,Corporate,Central,2024-01-27
+CUS00533,Consumer,West,2021-02-22
+CUS00534,Consumer,East,2024-09-23
+CUS00535,Consumer,North,2025-07-30
+CUS00536,Corporate,South,2024-10-02
+CUS00537,Consumer,West,2022-02-26
+CUS00538,Consumer,North,2021-12-13
+CUS00539,Consumer,East,2024-05-27
+CUS00540,Consumer,North,2021-04-23
+CUS00541,Consumer,South,2023-09-09
+CUS00542,Consumer,South,2023-03-31
+CUS00543,Consumer,West,2024-09-20
+CUS00544,Consumer,Central,2022-01-05
+CUS00545,Consumer,North,2024-10-23
+CUS00546,Consumer,West,2024-06-30
+CUS00547,Consumer,West,2022-03-12
+CUS00548,Consumer,Central,2022-10-13
+CUS00549,Consumer,Central,2021-05-01
+CUS00550,Consumer,North,2023-04-01
+CUS00551,Consumer,West,2022-04-21
+CUS00552,Consumer,East,2021-07-27
+CUS00553,Consumer,North,2023-10-19
+CUS00554,Consumer,South,2023-11-02
+CUS00555,Small Business,Central,2021-06-06
+CUS00556,Consumer,East,2021-12-05
+CUS00557,Consumer,South,2021-05-31
+CUS00558,Consumer,South,2024-05-24
+CUS00559,Consumer,Central,2022-09-09
+CUS00560,Consumer,South,2021-05-10
+CUS00561,Small Business,North,2021-12-16
+CUS00562,Small Business,East,2025-11-17
+CUS00563,Consumer,Central,2022-04-12
+CUS00564,Consumer,North,2024-06-03
+CUS00565,Consumer,South,2023-05-05
+CUS00566,Consumer,East,2021-11-28
+CUS00567,Consumer,North,2022-07-15
+CUS00568,Consumer,West,2021-01-26
+CUS00569,Consumer,South,2024-09-25
+CUS00570,Corporate,North,2022-09-03
+CUS00571,Consumer,South,2023-07-01
+CUS00572,Consumer,Central,2021-10-06
+CUS00573,Consumer,Central,2025-02-13
+CUS00574,Consumer,East,2022-02-03
+CUS00575,Consumer,East,2023-10-31
+CUS00576,Consumer,Central,2025-05-12
+CUS00577,Small Business,North,2024-07-25
+CUS00578,Consumer,West,2024-01-06
+CUS00579,Consumer,West,2025-06-09
+CUS00580,Consumer,West,2021-11-19
+CUS00581,Consumer,South,2025-10-25
+CUS00582,Consumer,West,2023-10-13
+CUS00583,Consumer,West,2023-01-18
+CUS00584,Consumer,Central,2022-04-12
+CUS00585,Consumer,North,2024-09-21
+CUS00586,Small Business,West,2025-11-17
+CUS00587,Consumer,Central,2024-06-13
+CUS00588,Small Business,South,2021-03-01
+CUS00589,Consumer,West,2023-05-07
+CUS00590,Consumer,North,2024-08-29
+CUS00591,Small Business,West,2022-12-27
+CUS00592,Small Business,West,2024-11-11
+CUS00593,Consumer,North,2024-07-14
+CUS00594,Small Business,North,2021-05-03
+CUS00595,Consumer,West,2023-10-16
+CUS00596,Consumer,South,2021-11-10
+CUS00597,Corporate,East,2023-06-07
+CUS00598,Consumer,North,2022-12-03
+CUS00599,Small Business,Central,2025-01-12
+CUS00600,Consumer,East,2025-05-04
+CUS00601,Small Business,Central,2023-04-23
+CUS00602,Consumer,North,2023-09-08
+CUS00603,Consumer,South,2024-02-17
+CUS00604,Consumer,West,2024-04-10
+CUS00605,Consumer,West,2024-03-05
+CUS00606,Consumer,West,2024-11-29
+CUS00607,Consumer,Central,2025-11-28
+CUS00608,Consumer,Central,2025-02-20
+CUS00609,Consumer,North,2021-09-03
+CUS00610,Consumer,South,2023-05-20
+CUS00611,Small Business,Central,2023-04-22
+CUS00612,Consumer,East,2023-07-18
+CUS00613,Small Business,Central,2023-08-23
+CUS00614,Consumer,East,2024-08-03
+CUS00615,Small Business,North,2023-02-08
+CUS00616,Consumer,East,2022-04-26
+CUS00617,Consumer,Central,2023-04-16
+CUS00618,Consumer,West,2025-04-09
+CUS00619,Consumer,North,2022-07-23
+CUS00620,Consumer,South,2021-02-07
+CUS00621,Consumer,Central,2025-11-17
+CUS00622,Corporate,Central,2021-12-24
+CUS00623,Consumer,West,2024-01-06
+CUS00624,Consumer,North,2024-12-31
+CUS00625,Corporate,West,2022-05-16
+CUS00626,Consumer,Central,2022-09-13
+CUS00627,Consumer,West,2022-05-27
+CUS00628,Small Business,East,2021-10-01
+CUS00629,Small Business,East,2021-10-07
+CUS00630,Consumer,South,2021-12-07
+CUS00631,Consumer,South,2023-04-16
+CUS00632,Consumer,West,2023-08-27
+CUS00633,Consumer,North,2021-01-30
+CUS00634,Consumer,North,2025-03-25
+CUS00635,Consumer,South,2024-05-18
+CUS00636,Consumer,West,2021-05-09
+CUS00637,Small Business,West,2025-03-18
+CUS00638,Consumer,East,2021-02-25
+CUS00639,Consumer,East,2023-10-20
+CUS00640,Consumer,North,2023-04-29
+CUS00641,Small Business,South,2023-07-06
+CUS00642,Consumer,North,2025-10-12
+CUS00643,Consumer,West,2025-08-19
+CUS00644,Consumer,West,2022-05-25
+CUS00645,Consumer,South,2023-11-24
+CUS00646,Consumer,South,2025-10-17
+CUS00647,Small Business,South,2024-08-23
+CUS00648,Consumer,Central,2025-06-09
+CUS00649,Small Business,East,2023-03-05
+CUS00650,Corporate,West,2022-06-01
+CUS00651,Consumer,East,2023-07-21
+CUS00652,Consumer,West,2025-01-30
+CUS00653,Consumer,East,2025-08-23
+CUS00654,Small Business,South,2024-06-05
+CUS00655,Consumer,Central,2024-07-13
+CUS00656,Consumer,West,2023-07-24
+CUS00657,Consumer,West,2022-08-07
+CUS00658,Small Business,Central,2023-02-11
+CUS00659,Consumer,South,2023-06-28
+CUS00660,Consumer,North,2025-01-28
+CUS00661,Consumer,East,2023-10-11
+CUS00662,Corporate,South,2024-12-18
+CUS00663,Consumer,East,2021-02-19
+CUS00664,Consumer,South,2024-10-13
+CUS00665,Small Business,South,2023-07-15
+CUS00666,Small Business,South,2025-12-27
+CUS00667,Consumer,South,2023-05-11
+CUS00668,Consumer,West,2023-05-24
+CUS00669,Small Business,East,2021-08-21
+CUS00670,Small Business,East,2025-01-12
+CUS00671,Consumer,North,2024-07-04
+CUS00672,Consumer,East,2025-04-24
+CUS00673,Small Business,North,2021-06-19
+CUS00674,Small Business,South,2022-01-22
+CUS00675,Small Business,East,2025-05-20
+CUS00676,Consumer,North,2021-03-18
+CUS00677,Consumer,South,2023-07-17
+CUS00678,Small Business,South,2023-01-09
+CUS00679,Small Business,Central,2025-09-11
+CUS00680,Small Business,Central,2025-04-13
+CUS00681,Consumer,North,2025-06-25
+CUS00682,Consumer,West,2022-06-12
+CUS00683,Small Business,West,2023-12-09
+CUS00684,Consumer,South,2024-07-01
+CUS00685,Corporate,East,2025-11-01
+CUS00686,Consumer,West,2021-01-14
+CUS00687,Consumer,South,2025-11-19
+CUS00688,Small Business,North,2022-10-11
+CUS00689,Consumer,South,2021-08-23
+CUS00690,Consumer,South,2024-01-29
+CUS00691,Consumer,South,2024-11-27
+CUS00692,Consumer,South,2021-08-25
+CUS00693,Consumer,North,2021-03-16
+CUS00694,Consumer,Central,2025-06-25
+CUS00695,Corporate,North,2025-09-01
+CUS00696,Consumer,West,2021-10-13
+CUS00697,Consumer,West,2025-07-08
+CUS00698,Consumer,West,2025-07-19
+CUS00699,Consumer,Central,2025-12-26
+CUS00700,Consumer,North,2022-01-30
+CUS00701,Consumer,South,2023-11-23
+CUS00702,Consumer,North,2025-12-20
+CUS00703,Consumer,East,2025-07-06
+CUS00704,Corporate,West,2024-01-09
+CUS00705,Consumer,Central,2021-12-26
+CUS00706,Consumer,South,2021-06-03
+CUS00707,Small Business,South,2022-04-18
+CUS00708,Small Business,Central,2021-04-30
+CUS00709,Consumer,West,2021-12-23
+CUS00710,Consumer,West,2021-05-17
+CUS00711,Consumer,East,2024-10-23
+CUS00712,Consumer,East,2023-12-13
+CUS00713,Consumer,South,2023-08-04
+CUS00714,Consumer,West,2025-01-17
+CUS00715,Consumer,South,2023-01-20
+CUS00716,Consumer,Central,2023-01-06
+CUS00717,Corporate,North,2022-01-13
+CUS00718,Consumer,East,2023-03-23
+CUS00719,Consumer,South,2021-11-15
+CUS00720,Consumer,West,2023-12-12
+CUS00721,Consumer,West,2025-12-26
+CUS00722,Consumer,Central,2023-08-31
+CUS00723,Small Business,West,2022-06-30
+CUS00724,Small Business,South,2024-06-09
+CUS00725,Small Business,South,2025-02-05
+CUS00726,Corporate,Central,2023-05-12
+CUS00727,Corporate,East,2022-04-02
+CUS00728,Corporate,North,2024-07-26
+CUS00729,Consumer,Central,2021-12-08
+CUS00730,Consumer,West,2025-12-26
+CUS00731,Consumer,North,2022-08-04
+CUS00732,Consumer,West,2022-10-02
+CUS00733,Consumer,West,2024-08-19
+CUS00734,Small Business,West,2021-01-23
+CUS00735,Consumer,Central,2022-01-06
+CUS00736,Consumer,East,2021-08-18
+CUS00737,Consumer,East,2022-12-15
+CUS00738,Consumer,West,2023-10-08
+CUS00739,Consumer,North,2021-11-24
+CUS00740,Small Business,North,2022-09-21
+CUS00741,Consumer,Central,2024-11-10
+CUS00742,Small Business,South,2025-09-12
+CUS00743,Consumer,East,2021-01-27
+CUS00744,Consumer,South,2024-02-20
+CUS00745,Consumer,South,2021-02-16
+CUS00746,Small Business,East,2023-08-08
+CUS00747,Small Business,Central,2025-05-25
+CUS00748,Consumer,East,2024-12-27
+CUS00749,Corporate,North,2022-03-01
+CUS00750,Consumer,South,2022-04-17
+CUS00751,Small Business,North,2024-11-30
+CUS00752,Consumer,Central,2025-02-05
+CUS00753,Consumer,South,2022-05-28
+CUS00754,Small Business,South,2021-01-06
+CUS00755,Consumer,North,2023-03-23
+CUS00756,Consumer,East,2024-02-05
+CUS00757,Consumer,Central,2023-03-21
+CUS00758,Consumer,East,2025-09-02
+CUS00759,Consumer,West,2025-01-24
+CUS00760,Small Business,North,2024-12-08
+CUS00761,Small Business,North,2021-02-07
+CUS00762,Consumer,West,2025-04-07
+CUS00763,Consumer,North,2024-10-10
+CUS00764,Consumer,East,2022-12-26
+CUS00765,Consumer,South,2023-12-12
+CUS00766,Consumer,North,2025-02-13
+CUS00767,Corporate,East,2025-07-12
+CUS00768,Small Business,Central,2023-10-03
+CUS00769,Small Business,North,2021-03-17
+CUS00770,Consumer,Central,2024-02-03
+CUS00771,Consumer,East,2024-05-26
+CUS00772,Consumer,West,2021-04-18
+CUS00773,Consumer,North,2025-01-31
+CUS00774,Consumer,Central,2022-01-03
+CUS00775,Consumer,North,2025-06-14
+CUS00776,Consumer,Central,2023-10-03
+CUS00777,Corporate,West,2022-08-11
+CUS00778,Consumer,South,2021-04-18
+CUS00779,Corporate,North,2021-02-02
+CUS00780,Consumer,West,2024-09-15
+CUS00781,Consumer,North,2022-11-20
+CUS00782,Consumer,West,2025-03-14
+CUS00783,Consumer,West,2022-02-25
+CUS00784,Consumer,South,2025-08-07
+CUS00785,Consumer,South,2025-09-15
+CUS00786,Small Business,South,2021-07-05
+CUS00787,Consumer,South,2024-03-26
+CUS00788,Consumer,North,2025-09-11
+CUS00789,Consumer,South,2022-08-13
+CUS00790,Consumer,West,2021-05-04
+CUS00791,Consumer,South,2025-05-17
+CUS00792,Consumer,West,2023-05-16
+CUS00793,Corporate,Central,2021-02-19
+CUS00794,Small Business,West,2025-03-14
+CUS00795,Small Business,East,2024-05-23
+CUS00796,Consumer,South,2021-05-09
+CUS00797,Consumer,Central,2022-04-18
+CUS00798,Corporate,South,2021-02-03
+CUS00799,Consumer,East,2025-10-09
+CUS00800,Consumer,East,2021-02-15
+CUS00801,Consumer,West,2024-12-23
+CUS00802,Small Business,East,2023-07-23
+CUS00803,Consumer,West,2023-11-30
+CUS00804,Small Business,Central,2025-01-21
+CUS00805,Small Business,South,2025-06-22
+CUS00806,Consumer,Central,2021-08-21
+CUS00807,Corporate,North,2021-02-02
+CUS00808,Consumer,Central,2021-08-16
+CUS00809,Consumer,North,2024-05-30
+CUS00810,Consumer,Central,2023-11-04
+CUS00811,Corporate,South,2021-06-03
+CUS00812,Consumer,Central,2022-03-04
+CUS00813,Consumer,North,2023-09-08
+CUS00814,Consumer,East,2024-08-25
+CUS00815,Consumer,Central,2022-09-19
+CUS00816,Consumer,North,2025-09-30
+CUS00817,Consumer,South,2025-12-16
+CUS00818,Consumer,North,2024-10-30
+CUS00819,Corporate,South,2023-04-10
+CUS00820,Consumer,South,2025-05-20
+CUS00821,Small Business,West,2024-08-21
+CUS00822,Consumer,South,2023-08-07
+CUS00823,Consumer,North,2023-03-21
+CUS00824,Consumer,North,2025-02-27
+CUS00825,Consumer,Central,2023-10-14
+CUS00826,Corporate,Central,2021-11-30
+CUS00827,Consumer,South,2025-12-30
+CUS00828,Consumer,North,2021-05-05
+CUS00829,Consumer,North,2024-06-22
+CUS00830,Small Business,Central,2024-04-12
+CUS00831,Consumer,West,2023-12-06
+CUS00832,Consumer,West,2021-04-05
+CUS00833,Small Business,South,2023-06-18
+CUS00834,Small Business,West,2025-06-17
+CUS00835,Corporate,North,2022-03-14
+CUS00836,Consumer,West,2024-06-16
+CUS00837,Consumer,East,2025-04-17
+CUS00838,Consumer,South,2025-10-04
+CUS00839,Corporate,West,2023-07-31
+CUS00840,Consumer,West,2022-07-27
+CUS00841,Small Business,East,2024-06-30
+CUS00842,Consumer,North,2023-06-07
+CUS00843,Consumer,North,2024-02-19
+CUS00844,Consumer,Central,2024-09-15
+CUS00845,Consumer,South,2024-07-20
+CUS00846,Small Business,South,2022-03-20
+CUS00847,Consumer,West,2024-10-11
+CUS00848,Consumer,South,2023-09-16
+CUS00849,Consumer,South,2025-08-26
+CUS00850,Consumer,West,2024-04-18
+CUS00851,Consumer,East,2025-06-16
+CUS00852,Consumer,West,2025-11-22
+CUS00853,Consumer,North,2025-12-20
+CUS00854,Consumer,East,2024-09-21
+CUS00855,Consumer,East,2023-12-27
+CUS00856,Consumer,West,2021-08-04
+CUS00857,Consumer,North,2022-12-06
+CUS00858,Consumer,North,2023-05-18
+CUS00859,Consumer,West,2024-11-25
+CUS00860,Small Business,West,2023-12-11
+CUS00861,Small Business,Central,2023-03-13
+CUS00862,Consumer,South,2021-09-25
+CUS00863,Consumer,Central,2024-07-30
+CUS00864,Consumer,South,2023-02-28
+CUS00865,Consumer,West,2021-03-07
+CUS00866,Consumer,North,2022-06-03
+CUS00867,Consumer,Central,2025-05-25
+CUS00868,Consumer,South,2021-08-05
+CUS00869,Small Business,Central,2023-01-12
+CUS00870,Consumer,South,2023-07-24
+CUS00871,Consumer,West,2021-06-02
+CUS00872,Consumer,East,2021-10-30
+CUS00873,Corporate,North,2025-09-12
+CUS00874,Consumer,North,2023-12-14
+CUS00875,Consumer,West,2022-01-19
+CUS00876,Consumer,North,2021-11-06
+CUS00877,Consumer,South,2023-02-16
+CUS00878,Corporate,East,2024-08-13
+CUS00879,Consumer,South,2024-08-25
+CUS00880,Consumer,North,2021-12-23
+CUS00881,Consumer,West,2024-08-17
+CUS00882,Consumer,West,2025-06-24
+CUS00883,Small Business,West,2022-02-18
+CUS00884,Consumer,Central,2021-02-17
+CUS00885,Consumer,North,2025-10-16
+CUS00886,Corporate,East,2023-08-11
+CUS00887,Small Business,South,2024-11-18
+CUS00888,Consumer,Central,2022-08-08
+CUS00889,Consumer,East,2022-06-30
+CUS00890,Consumer,North,2022-02-15
+CUS00891,Consumer,West,2022-02-01
+CUS00892,Consumer,North,2023-05-11
+CUS00893,Consumer,South,2021-07-13
+CUS00894,Small Business,West,2025-03-17
+CUS00895,Corporate,East,2023-07-22
+CUS00896,Small Business,West,2025-07-29
+CUS00897,Corporate,East,2023-07-06
+CUS00898,Small Business,Central,2022-07-08
+CUS00899,Small Business,East,2023-07-29
+CUS00900,Small Business,North,2021-10-09
+CUS00901,Consumer,North,2025-02-12
+CUS00902,Consumer,West,2024-08-07
+CUS00903,Consumer,North,2021-09-26
+CUS00904,Consumer,South,2023-11-29
+CUS00905,Consumer,North,2023-09-09
+CUS00906,Consumer,South,2022-01-02
+CUS00907,Consumer,East,2021-08-11
+CUS00908,Consumer,North,2024-10-19
+CUS00909,Consumer,East,2022-04-27
+CUS00910,Small Business,Central,2023-08-06
+CUS00911,Small Business,North,2022-03-29
+CUS00912,Consumer,North,2024-04-07
+CUS00913,Consumer,South,2021-03-31
+CUS00914,Consumer,Central,2022-10-18
+CUS00915,Small Business,East,2023-09-26
+CUS00916,Small Business,West,2023-03-13
+CUS00917,Consumer,North,2024-01-23
+CUS00918,Small Business,West,2021-11-26
+CUS00919,Consumer,North,2023-03-18
+CUS00920,Consumer,West,2024-10-12
+CUS00921,Corporate,North,2022-09-01
+CUS00922,Consumer,Central,2021-10-14
+CUS00923,Consumer,South,2025-03-28
+CUS00924,Consumer,North,2024-11-21
+CUS00925,Consumer,South,2024-05-26
+CUS00926,Corporate,North,2024-12-27
+CUS00927,Corporate,North,2024-11-22
+CUS00928,Consumer,East,2024-09-24
+CUS00929,Consumer,South,2023-07-19
+CUS00930,Small Business,South,2021-02-05
+CUS00931,Consumer,Central,2023-12-26
+CUS00932,Small Business,North,2022-05-14
+CUS00933,Consumer,South,2024-11-12
+CUS00934,Consumer,North,2023-05-05
+CUS00935,Small Business,East,2025-07-11
+CUS00936,Consumer,South,2023-12-23
+CUS00937,Consumer,North,2023-10-02
+CUS00938,Consumer,North,2025-08-05
+CUS00939,Consumer,Central,2023-05-17
+CUS00940,Consumer,North,2022-11-17
+CUS00941,Consumer,West,2022-11-10
+CUS00942,Corporate,Central,2025-05-16
+CUS00943,Corporate,East,2024-10-12
+CUS00944,Consumer,South,2021-10-26
+CUS00945,Consumer,West,2023-06-18
+CUS00946,Small Business,Central,2022-11-09
+CUS00947,Corporate,North,2024-03-26
+CUS00948,Consumer,Central,2021-04-06
+CUS00949,Consumer,Central,2024-07-27
+CUS00950,Consumer,North,2024-09-17
+CUS00951,Consumer,North,2022-02-18
+CUS00952,Consumer,West,2021-10-02
+CUS00953,Consumer,North,2024-02-20
+CUS00954,Small Business,West,2022-04-15
+CUS00955,Small Business,North,2025-09-15
+CUS00956,Small Business,West,2024-11-15
+CUS00957,Consumer,South,2025-10-09
+CUS00958,Consumer,North,2023-09-03
+CUS00959,Small Business,North,2025-09-09
+CUS00960,Small Business,North,2021-01-26
+CUS00961,Consumer,East,2022-06-14
+CUS00962,Small Business,North,2021-01-05
+CUS00963,Consumer,Central,2024-05-21
+CUS00964,Small Business,West,2023-07-21
+CUS00965,Consumer,South,2022-06-09
+CUS00966,Consumer,Central,2022-07-11
+CUS00967,Consumer,West,2024-03-20
+CUS00968,Consumer,West,2021-11-26
+CUS00969,Consumer,North,2023-07-29
+CUS00970,Consumer,West,2024-01-25
+CUS00971,Consumer,East,2022-03-14
+CUS00972,Small Business,Central,2022-02-21
+CUS00973,Consumer,East,2022-10-09
+CUS00974,Consumer,West,2023-12-17
+CUS00975,Small Business,South,2022-04-10
+CUS00976,Consumer,North,2022-11-24
+CUS00977,Consumer,North,2023-09-19
+CUS00978,Small Business,Central,2021-12-07
+CUS00979,Small Business,West,2023-11-05
+CUS00980,Consumer,South,2021-09-10
+CUS00981,Small Business,West,2021-09-18
+CUS00982,Consumer,North,2022-03-09
+CUS00983,Consumer,North,2022-06-07
+CUS00984,Small Business,East,2021-02-24
+CUS00985,Consumer,West,2025-10-21
+CUS00986,Small Business,Central,2022-07-17
+CUS00987,Consumer,West,2025-01-08
+CUS00988,Small Business,South,2025-07-05
+CUS00989,Consumer,Central,2025-01-01
+CUS00990,Consumer,East,2025-02-26
+CUS00991,Consumer,Central,2021-07-02
+CUS00992,Consumer,North,2022-11-10
+CUS00993,Small Business,North,2024-09-23
+CUS00994,Consumer,North,2023-11-17
+CUS00995,Consumer,Central,2021-01-11
+CUS00996,Consumer,North,2023-11-02
+CUS00997,Consumer,Central,2025-01-08
+CUS00998,Small Business,West,2025-02-21
+CUS00999,Consumer,North,2022-12-02
+CUS01000,Corporate,Central,2022-03-08
+CUS01001,Consumer,North,2022-07-19
+CUS01002,Consumer,North,2022-06-25
+CUS01003,Consumer,East,2022-09-25
+CUS01004,Consumer,South,2022-07-05
+CUS01005,Small Business,South,2023-04-15
+CUS01006,Corporate,North,2021-03-16
+CUS01007,Small Business,West,2022-05-18
+CUS01008,Consumer,North,2022-07-29
+CUS01009,Consumer,South,2021-10-07
+CUS01010,Consumer,East,2025-05-22
+CUS01011,Consumer,East,2024-05-17
+CUS01012,Small Business,West,2025-07-23
+CUS01013,Consumer,South,2023-10-22
+CUS01014,Consumer,West,2021-07-20
+CUS01015,Small Business,West,2025-07-09
+CUS01016,Consumer,South,2023-04-16
+CUS01017,Consumer,South,2024-06-03
+CUS01018,Consumer,East,2022-11-27
+CUS01019,Consumer,East,2023-06-22
+CUS01020,Consumer,North,2023-06-13
+CUS01021,Consumer,East,2022-06-04
+CUS01022,Consumer,North,2023-10-10
+CUS01023,Small Business,East,2024-09-01
+CUS01024,Small Business,Central,2021-02-06
+CUS01025,Consumer,East,2021-08-27
+CUS01026,Consumer,West,2025-03-18
+CUS01027,Consumer,South,2023-11-06
+CUS01028,Consumer,Central,2025-11-12
+CUS01029,Consumer,Central,2024-01-09
+CUS01030,Consumer,Central,2024-04-07
+CUS01031,Consumer,West,2025-06-29
+CUS01032,Consumer,West,2024-04-20
+CUS01033,Consumer,East,2022-08-25
+CUS01034,Consumer,Central,2023-08-22
+CUS01035,Small Business,Central,2022-03-06
+CUS01036,Consumer,East,2022-09-03
+CUS01037,Consumer,North,2024-05-26
+CUS01038,Small Business,North,2021-09-29
+CUS01039,Consumer,South,2024-05-11
+CUS01040,Consumer,North,2023-12-02
+CUS01041,Corporate,South,2022-07-17
+CUS01042,Consumer,North,2021-03-24
+CUS01043,Consumer,Central,2024-07-09
+CUS01044,Consumer,North,2025-02-13
+CUS01045,Consumer,West,2024-08-25
+CUS01046,Consumer,South,2023-02-08
+CUS01047,Consumer,North,2024-04-07
+CUS01048,Consumer,West,2023-01-27
+CUS01049,Consumer,Central,2022-10-16
+CUS01050,Consumer,West,2022-08-21
+CUS01051,Consumer,Central,2022-01-20
+CUS01052,Consumer,East,2025-11-05
+CUS01053,Small Business,West,2024-04-30
+CUS01054,Consumer,North,2021-11-16
+CUS01055,Consumer,Central,2025-04-28
+CUS01056,Consumer,West,2021-10-04
+CUS01057,Consumer,South,2023-12-20
+CUS01058,Consumer,South,2021-10-30
+CUS01059,Consumer,West,2022-10-22
+CUS01060,Consumer,North,2024-04-16
+CUS01061,Small Business,Central,2025-12-29
+CUS01062,Corporate,South,2025-12-16
+CUS01063,Consumer,North,2025-06-23
+CUS01064,Consumer,South,2022-03-06
+CUS01065,Consumer,Central,2021-06-20
+CUS01066,Consumer,South,2025-07-11
+CUS01067,Consumer,East,2025-08-12
+CUS01068,Small Business,Central,2022-05-24
+CUS01069,Small Business,North,2021-02-04
+CUS01070,Small Business,West,2024-03-28
+CUS01071,Consumer,South,2021-05-19
+CUS01072,Corporate,West,2021-03-15
+CUS01073,Consumer,North,2025-09-07
+CUS01074,Consumer,North,2023-06-24
+CUS01075,Consumer,West,2021-07-24
+CUS01076,Corporate,Central,2024-04-09
+CUS01077,Consumer,Central,2022-11-05
+CUS01078,Small Business,West,2023-09-06
+CUS01079,Consumer,East,2025-06-29
+CUS01080,Corporate,North,2022-03-11
+CUS01081,Consumer,South,2024-03-25
+CUS01082,Consumer,West,2025-02-21
+CUS01083,Corporate,South,2023-02-13
+CUS01084,Consumer,East,2025-11-06
+CUS01085,Consumer,North,2023-03-30
+CUS01086,Consumer,East,2023-04-19
+CUS01087,Consumer,South,2025-06-02
+CUS01088,Consumer,North,2024-03-06
+CUS01089,Consumer,North,2025-05-05
+CUS01090,Consumer,East,2024-12-13
+CUS01091,Small Business,South,2024-07-24
+CUS01092,Consumer,North,2022-03-17
+CUS01093,Consumer,East,2022-12-29
+CUS01094,Consumer,North,2025-04-27
+CUS01095,Consumer,North,2024-01-30
+CUS01096,Consumer,North,2022-05-27
+CUS01097,Corporate,East,2022-08-21
+CUS01098,Corporate,Central,2024-11-16
+CUS01099,Consumer,South,2021-11-22
+CUS01100,Consumer,South,2021-07-24
+CUS01101,Consumer,South,2024-10-28
+CUS01102,Consumer,South,2022-06-11
+CUS01103,Consumer,West,2024-10-28
+CUS01104,Consumer,South,2023-09-01
+CUS01105,Consumer,West,2025-12-27
+CUS01106,Consumer,Central,2023-08-16
+CUS01107,Consumer,Central,2025-05-03
+CUS01108,Consumer,East,2025-04-02
+CUS01109,Consumer,West,2022-01-22
+CUS01110,Consumer,Central,2025-12-23
+CUS01111,Small Business,West,2024-09-23
+CUS01112,Consumer,South,2021-07-15
+CUS01113,Consumer,North,2021-01-12
+CUS01114,Consumer,North,2022-05-11
+CUS01115,Small Business,Central,2021-01-30
+CUS01116,Consumer,East,2022-10-15
+CUS01117,Small Business,South,2025-12-24
+CUS01118,Corporate,South,2023-05-25
+CUS01119,Consumer,South,2021-02-13
+CUS01120,Consumer,Central,2023-06-21
+CUS01121,Consumer,West,2022-02-04
+CUS01122,Corporate,Central,2025-04-12
+CUS01123,Consumer,South,2021-06-15
+CUS01124,Corporate,East,2024-11-07
+CUS01125,Consumer,North,2023-03-25
+CUS01126,Consumer,Central,2021-02-04
+CUS01127,Consumer,East,2024-05-13
+CUS01128,Consumer,East,2023-04-11
+CUS01129,Consumer,East,2024-11-09
+CUS01130,Consumer,South,2024-02-02
+CUS01131,Small Business,Central,2024-12-07
+CUS01132,Small Business,East,2023-04-21
+CUS01133,Consumer,West,2021-01-15
+CUS01134,Consumer,North,2021-08-27
+CUS01135,Consumer,South,2023-04-18
+CUS01136,Small Business,Central,2022-12-27
+CUS01137,Consumer,North,2024-12-20
+CUS01138,Small Business,North,2023-01-22
+CUS01139,Consumer,Central,2025-04-19
+CUS01140,Consumer,South,2021-12-09
+CUS01141,Consumer,South,2022-12-04
+CUS01142,Consumer,East,2024-10-12
+CUS01143,Small Business,North,2021-08-15
+CUS01144,Consumer,North,2022-08-10
+CUS01145,Consumer,North,2024-10-04
+CUS01146,Corporate,North,2023-12-11
+CUS01147,Corporate,North,2024-11-20
+CUS01148,Small Business,West,2023-07-31
+CUS01149,Consumer,South,2025-04-18
+CUS01150,Consumer,North,2025-05-21
+CUS01151,Small Business,North,2025-11-14
+CUS01152,Consumer,East,2021-08-11
+CUS01153,Consumer,Central,2023-12-15
+CUS01154,Small Business,South,2021-07-28
+CUS01155,Consumer,North,2022-02-22
+CUS01156,Consumer,South,2022-07-03
+CUS01157,Corporate,East,2024-03-25
+CUS01158,Consumer,North,2023-02-26
+CUS01159,Consumer,Central,2025-04-28
+CUS01160,Consumer,West,2022-06-29
+CUS01161,Consumer,South,2024-02-01
+CUS01162,Consumer,Central,2024-10-24
+CUS01163,Small Business,South,2025-11-25
+CUS01164,Small Business,North,2022-03-24
+CUS01165,Consumer,Central,2024-08-31
+CUS01166,Consumer,Central,2021-06-04
+CUS01167,Small Business,South,2023-09-19
+CUS01168,Consumer,East,2023-01-26
+CUS01169,Consumer,North,2025-10-16
+CUS01170,Consumer,West,2024-11-12
+CUS01171,Consumer,West,2025-08-20
+CUS01172,Consumer,West,2025-04-02
+CUS01173,Consumer,East,2023-01-20
+CUS01174,Consumer,West,2024-08-31
+CUS01175,Consumer,East,2021-02-25
+CUS01176,Consumer,Central,2023-10-16
+CUS01177,Consumer,North,2021-03-28
+CUS01178,Consumer,East,2024-08-14
+CUS01179,Consumer,East,2025-10-31
+CUS01180,Consumer,East,2024-05-28
+CUS01181,Consumer,North,2025-03-13
+CUS01182,Consumer,South,2022-03-04
+CUS01183,Consumer,Central,2025-12-19
+CUS01184,Corporate,North,2023-10-03
+CUS01185,Consumer,West,2024-05-15
+CUS01186,Small Business,West,2024-11-07
+CUS01187,Corporate,East,2024-03-13
+CUS01188,Consumer,North,2022-08-02
+CUS01189,Consumer,North,2024-01-21
+CUS01190,Small Business,South,2024-04-08
+CUS01191,Consumer,North,2025-04-14
+CUS01192,Consumer,North,2023-05-29
+CUS01193,Consumer,North,2023-07-05
+CUS01194,Consumer,North,2023-07-08
+CUS01195,Consumer,Central,2021-07-28
+CUS01196,Corporate,West,2021-06-14
+CUS01197,Corporate,North,2021-02-07
+CUS01198,Consumer,West,2024-04-30
+CUS01199,Consumer,North,2023-02-04
+CUS01200,Consumer,East,2025-04-29
+CUS01201,Small Business,North,2024-07-05
+CUS01202,Consumer,North,2021-09-16
+CUS01203,Corporate,North,2021-07-02
+CUS01204,Small Business,East,2022-10-31
+CUS01205,Consumer,East,2025-08-08
+CUS01206,Consumer,South,2021-03-30
+CUS01207,Small Business,West,2021-12-09
+CUS01208,Consumer,West,2021-02-24
+CUS01209,Consumer,West,2023-01-25
+CUS01210,Small Business,East,2025-12-12
+CUS01211,Consumer,East,2024-06-01
+CUS01212,Consumer,East,2023-06-20
+CUS01213,Consumer,South,2021-09-21
+CUS01214,Consumer,East,2022-10-11
+CUS01215,Corporate,North,2023-08-16
+CUS01216,Consumer,Central,2022-05-17
+CUS01217,Consumer,South,2024-07-10
+CUS01218,Consumer,West,2025-11-24
+CUS01219,Corporate,Central,2022-01-11
+CUS01220,Consumer,East,2022-04-06
+CUS01221,Small Business,Central,2021-08-19
+CUS01222,Consumer,East,2024-08-17
+CUS01223,Small Business,North,2023-04-23
+CUS01224,Corporate,North,2022-06-02
+CUS01225,Small Business,North,2022-02-05
+CUS01226,Corporate,Central,2021-05-09
+CUS01227,Consumer,East,2023-05-19
+CUS01228,Small Business,South,2024-05-31
+CUS01229,Consumer,East,2022-03-05
+CUS01230,Consumer,South,2021-01-03
+CUS01231,Small Business,Central,2023-05-14
+CUS01232,Corporate,Central,2024-05-18
+CUS01233,Consumer,North,2022-09-22
+CUS01234,Consumer,West,2022-04-02
+CUS01235,Consumer,South,2021-10-09
+CUS01236,Consumer,North,2024-09-23
+CUS01237,Consumer,Central,2025-04-22
+CUS01238,Consumer,North,2024-11-05
+CUS01239,Consumer,South,2023-08-04
+CUS01240,Consumer,North,2024-08-14
+CUS01241,Small Business,East,2022-12-26
+CUS01242,Consumer,East,2021-02-14
+CUS01243,Corporate,South,2022-11-02
+CUS01244,Consumer,North,2024-07-08
+CUS01245,Consumer,North,2024-03-27
+CUS01246,Consumer,Central,2025-12-13
+CUS01247,Consumer,Central,2025-12-26
+CUS01248,Corporate,Central,2022-03-19
+CUS01249,Consumer,East,2021-01-18
+CUS01250,Consumer,East,2022-05-16
+CUS01251,Corporate,West,2025-05-18
+CUS01252,Corporate,West,2025-01-24
+CUS01253,Consumer,East,2021-06-30
+CUS01254,Consumer,South,2021-10-20
+CUS01255,Consumer,East,2023-10-26
+CUS01256,Consumer,North,2024-04-20
+CUS01257,Consumer,North,2025-11-28
+CUS01258,Consumer,West,2024-10-09
+CUS01259,Small Business,Central,2022-01-22
+CUS01260,Consumer,North,2021-03-09
+CUS01261,Consumer,North,2024-03-02
+CUS01262,Consumer,North,2023-10-08
+CUS01263,Small Business,West,2025-08-10
+CUS01264,Consumer,South,2023-11-17
+CUS01265,Small Business,South,2023-07-04
+CUS01266,Corporate,North,2022-07-08
+CUS01267,Consumer,Central,2021-06-07
+CUS01268,Consumer,East,2025-05-19
+CUS01269,Consumer,West,2025-02-16
+CUS01270,Consumer,West,2021-10-25
+CUS01271,Corporate,North,2024-07-08
+CUS01272,Consumer,Central,2022-10-27
+CUS01273,Small Business,East,2023-03-09
+CUS01274,Consumer,West,2025-03-29
+CUS01275,Consumer,South,2025-03-17
+CUS01276,Consumer,Central,2021-12-14
+CUS01277,Consumer,Central,2022-07-16
+CUS01278,Consumer,East,2025-02-08
+CUS01279,Consumer,North,2025-08-01
+CUS01280,Consumer,Central,2021-05-25
+CUS01281,Small Business,Central,2025-03-02
+CUS01282,Consumer,East,2023-06-12
+CUS01283,Corporate,East,2023-12-14
+CUS01284,Consumer,South,2021-05-18
+CUS01285,Consumer,North,2024-05-26
+CUS01286,Consumer,Central,2024-05-22
+CUS01287,Consumer,East,2024-04-24
+CUS01288,Consumer,South,2024-12-13
+CUS01289,Consumer,West,2025-09-23
+CUS01290,Corporate,North,2025-03-31
+CUS01291,Consumer,North,2024-09-21
+CUS01292,Consumer,South,2025-11-26
+CUS01293,Consumer,East,2024-05-16
+CUS01294,Consumer,South,2024-05-11
+CUS01295,Consumer,North,2023-09-17
+CUS01296,Consumer,South,2024-11-04
+CUS01297,Consumer,South,2021-05-11
+CUS01298,Consumer,East,2023-07-13
+CUS01299,Corporate,East,2023-02-16
+CUS01300,Consumer,Central,2025-07-24
+CUS01301,Small Business,Central,2021-05-13
+CUS01302,Consumer,South,2024-03-20
+CUS01303,Consumer,Central,2021-12-03
+CUS01304,Small Business,East,2025-06-01
+CUS01305,Consumer,North,2025-04-04
+CUS01306,Small Business,South,2022-03-06
+CUS01307,Consumer,West,2025-05-10
+CUS01308,Consumer,Central,2023-06-26
+CUS01309,Small Business,South,2025-11-08
+CUS01310,Consumer,North,2024-08-24
+CUS01311,Consumer,North,2021-03-04
+CUS01312,Consumer,North,2022-01-05
+CUS01313,Consumer,West,2023-01-07
+CUS01314,Corporate,East,2022-01-21
+CUS01315,Consumer,East,2021-08-30
+CUS01316,Consumer,West,2025-11-20
+CUS01317,Small Business,Central,2025-05-06
+CUS01318,Consumer,West,2023-03-05
+CUS01319,Small Business,North,2022-01-28
+CUS01320,Consumer,East,2021-11-28
+CUS01321,Consumer,Central,2025-07-30
+CUS01322,Small Business,West,2022-08-28
+CUS01323,Consumer,South,2021-01-23
+CUS01324,Consumer,South,2022-12-27
+CUS01325,Consumer,Central,2023-04-10
+CUS01326,Small Business,North,2024-02-12
+CUS01327,Small Business,East,2022-09-11
+CUS01328,Consumer,North,2025-08-12
+CUS01329,Consumer,Central,2024-03-20
+CUS01330,Corporate,North,2025-12-06
+CUS01331,Consumer,North,2022-11-01
+CUS01332,Consumer,South,2024-04-04
+CUS01333,Consumer,South,2022-10-29
+CUS01334,Consumer,East,2024-07-01
+CUS01335,Small Business,South,2024-09-22
+CUS01336,Small Business,South,2022-08-11
+CUS01337,Consumer,East,2025-09-08
+CUS01338,Consumer,East,2025-04-14
+CUS01339,Consumer,Central,2025-06-21
+CUS01340,Consumer,East,2022-02-02
+CUS01341,Consumer,East,2024-08-03
+CUS01342,Consumer,West,2021-07-14
+CUS01343,Consumer,North,2021-07-12
+CUS01344,Consumer,West,2025-11-12
+CUS01345,Consumer,Central,2021-10-07
+CUS01346,Consumer,South,2025-04-27
+CUS01347,Consumer,North,2023-02-26
+CUS01348,Consumer,South,2022-07-09
+CUS01349,Small Business,South,2021-05-15
+CUS01350,Small Business,East,2024-05-17
+CUS01351,Small Business,Central,2024-08-09
+CUS01352,Consumer,East,2023-05-03
+CUS01353,Small Business,North,2025-01-18
+CUS01354,Consumer,South,2022-08-13
+CUS01355,Consumer,West,2023-10-04
+CUS01356,Consumer,South,2022-06-08
+CUS01357,Consumer,East,2023-11-29
+CUS01358,Consumer,West,2021-09-06
+CUS01359,Consumer,South,2023-05-20
+CUS01360,Small Business,West,2023-09-30
+CUS01361,Consumer,South,2023-10-13
+CUS01362,Consumer,North,2023-03-27
+CUS01363,Consumer,South,2024-03-20
+CUS01364,Consumer,East,2023-07-24
+CUS01365,Consumer,North,2022-06-01
+CUS01366,Consumer,Central,2022-01-29
+CUS01367,Consumer,East,2024-03-28
+CUS01368,Small Business,North,2025-09-09
+CUS01369,Corporate,Central,2024-10-06
+CUS01370,Consumer,Central,2024-03-11
+CUS01371,Consumer,North,2025-08-09
+CUS01372,Small Business,North,2025-06-30
+CUS01373,Corporate,South,2023-07-14
+CUS01374,Consumer,East,2021-07-19
+CUS01375,Small Business,West,2024-03-03
+CUS01376,Small Business,East,2024-02-11
+CUS01377,Small Business,West,2022-05-22
+CUS01378,Consumer,North,2025-03-31
+CUS01379,Consumer,West,2025-05-07
+CUS01380,Consumer,Central,2022-08-27
+CUS01381,Consumer,East,2023-05-21
+CUS01382,Consumer,East,2021-12-23
+CUS01383,Consumer,South,2021-11-22
+CUS01384,Consumer,Central,2022-04-29
+CUS01385,Consumer,North,2022-10-30
+CUS01386,Small Business,South,2022-05-14
+CUS01387,Consumer,North,2021-10-04
+CUS01388,Consumer,Central,2023-03-28
+CUS01389,Small Business,East,2024-02-13
+CUS01390,Small Business,Central,2022-08-18
+CUS01391,Corporate,West,2023-09-01
+CUS01392,Small Business,East,2022-05-11
+CUS01393,Small Business,East,2024-07-08
+CUS01394,Consumer,South,2024-03-29
+CUS01395,Consumer,East,2025-10-19
+CUS01396,Consumer,West,2021-04-07
+CUS01397,Consumer,Central,2025-04-06
+CUS01398,Corporate,East,2022-09-14
+CUS01399,Consumer,Central,2021-05-01
+CUS01400,Consumer,Central,2024-06-12
+CUS01401,Consumer,East,2021-11-10
+CUS01402,Consumer,East,2021-11-17
+CUS01403,Consumer,North,2025-11-23
+CUS01404,Consumer,South,2022-02-08
+CUS01405,Corporate,Central,2023-09-26
+CUS01406,Consumer,North,2022-01-02
+CUS01407,Small Business,South,2021-08-15
+CUS01408,Consumer,West,2021-01-02
+CUS01409,Consumer,South,2021-01-30
+CUS01410,Consumer,Central,2023-05-15
+CUS01411,Small Business,West,2023-03-04
+CUS01412,Consumer,North,2021-03-13
+CUS01413,Small Business,South,2022-10-01
+CUS01414,Consumer,West,2022-05-14
+CUS01415,Consumer,Central,2023-11-09
+CUS01416,Small Business,Central,2025-12-21
+CUS01417,Consumer,Central,2024-06-16
+CUS01418,Consumer,North,2025-08-04
+CUS01419,Corporate,West,2021-12-17
+CUS01420,Consumer,North,2022-01-28
+CUS01421,Consumer,North,2024-10-02
+CUS01422,Consumer,West,2022-07-20
+CUS01423,Consumer,East,2025-03-30
+CUS01424,Small Business,West,2023-04-27
+CUS01425,Small Business,Central,2022-01-02
+CUS01426,Consumer,North,2025-03-22
+CUS01427,Small Business,East,2023-10-02
+CUS01428,Consumer,Central,2025-01-04
+CUS01429,Consumer,East,2023-04-06
+CUS01430,Consumer,East,2021-08-19
+CUS01431,Corporate,East,2024-05-27
+CUS01432,Consumer,Central,2021-08-16
+CUS01433,Consumer,North,2024-04-25
+CUS01434,Consumer,Central,2023-01-31
+CUS01435,Small Business,Central,2024-12-15
+CUS01436,Consumer,Central,2025-05-07
+CUS01437,Consumer,East,2023-01-14
+CUS01438,Small Business,East,2025-05-29
+CUS01439,Consumer,South,2021-07-22
+CUS01440,Consumer,South,2021-07-15
+CUS01441,Consumer,Central,2025-12-19
+CUS01442,Consumer,East,2023-11-15
+CUS01443,Consumer,West,2023-04-03
+CUS01444,Small Business,North,2021-10-12
+CUS01445,Consumer,West,2022-06-12
+CUS01446,Consumer,West,2024-06-06
+CUS01447,Corporate,Central,2025-02-08
+CUS01448,Consumer,North,2025-07-31
+CUS01449,Consumer,East,2023-01-15
+CUS01450,Corporate,East,2023-04-10
+CUS01451,Consumer,East,2021-10-26
+CUS01452,Small Business,North,2021-06-01
+CUS01453,Small Business,East,2023-03-11
+CUS01454,Consumer,South,2023-11-24
+CUS01455,Consumer,West,2021-07-10
+CUS01456,Consumer,South,2023-01-16
+CUS01457,Consumer,East,2024-03-16
+CUS01458,Consumer,West,2025-01-19
+CUS01459,Consumer,North,2025-09-09
+CUS01460,Small Business,West,2022-09-14
+CUS01461,Small Business,West,2022-12-16
+CUS01462,Small Business,North,2025-05-16
+CUS01463,Consumer,North,2024-06-19
+CUS01464,Consumer,Central,2022-05-15
+CUS01465,Consumer,South,2024-06-04
+CUS01466,Consumer,Central,2021-10-15
+CUS01467,Corporate,East,2023-03-31
+CUS01468,Consumer,South,2022-07-14
+CUS01469,Consumer,South,2025-12-17
+CUS01470,Small Business,West,2021-03-05
+CUS01471,Consumer,North,2025-04-13
+CUS01472,Consumer,East,2022-05-29
+CUS01473,Consumer,South,2021-03-08
+CUS01474,Consumer,North,2024-04-19
+CUS01475,Small Business,South,2024-05-22
+CUS01476,Consumer,East,2021-09-17
+CUS01477,Small Business,West,2021-03-11
+CUS01478,Small Business,North,2021-07-23
+CUS01479,Small Business,Central,2023-01-17
+CUS01480,Consumer,Central,2021-08-30
+CUS01481,Consumer,West,2024-07-07
+CUS01482,Small Business,Central,2021-05-22
+CUS01483,Consumer,East,2024-12-10
+CUS01484,Consumer,Central,2025-05-16
+CUS01485,Small Business,West,2024-08-01
+CUS01486,Consumer,East,2025-09-20
+CUS01487,Small Business,North,2025-09-11
+CUS01488,Corporate,East,2021-03-26
+CUS01489,Small Business,Central,2022-09-17
+CUS01490,Consumer,Central,2024-10-19
+CUS01491,Small Business,East,2022-09-12
+CUS01492,Consumer,South,2024-09-07
+CUS01493,Small Business,West,2024-11-14
+CUS01494,Small Business,North,2025-12-25
+CUS01495,Small Business,North,2022-08-26
+CUS01496,Consumer,East,2022-09-27
+CUS01497,Consumer,Central,2021-02-14
+CUS01498,Consumer,South,2022-06-06
+CUS01499,Consumer,East,2022-05-27
+CUS01500,Consumer,South,2023-04-07
+CUS01501,Consumer,East,2023-02-08
+CUS01502,Consumer,North,2025-04-13
+CUS01503,Small Business,East,2024-11-13
+CUS01504,Small Business,East,2024-08-22
+CUS01505,Consumer,South,2021-01-10
+CUS01506,Small Business,South,2023-05-11
+CUS01507,Consumer,West,2024-08-24
+CUS01508,Consumer,North,2022-03-23
+CUS01509,Consumer,North,2023-02-15
+CUS01510,Small Business,North,2024-08-19
+CUS01511,Corporate,Central,2024-12-21
+CUS01512,Small Business,South,2025-04-09
+CUS01513,Small Business,North,2023-02-24
+CUS01514,Corporate,Central,2022-12-31
+CUS01515,Consumer,North,2022-11-30
+CUS01516,Consumer,South,2024-05-05
+CUS01517,Consumer,North,2023-02-05
+CUS01518,Corporate,West,2023-01-01
+CUS01519,Consumer,West,2021-11-04
+CUS01520,Consumer,West,2023-05-24
+CUS01521,Small Business,South,2022-03-10
+CUS01522,Consumer,South,2023-08-16
+CUS01523,Small Business,Central,2025-06-10
+CUS01524,Consumer,Central,2024-11-16
+CUS01525,Corporate,North,2023-05-23
+CUS01526,Small Business,West,2025-11-19
+CUS01527,Consumer,Central,2025-11-24
+CUS01528,Small Business,East,2023-03-22
+CUS01529,Consumer,West,2024-10-25
+CUS01530,Consumer,North,2022-09-17
+CUS01531,Consumer,North,2025-05-23
+CUS01532,Small Business,North,2022-11-13
+CUS01533,Consumer,North,2022-04-17
+CUS01534,Consumer,Central,2021-09-02
+CUS01535,Consumer,West,2025-03-18
+CUS01536,Consumer,West,2022-06-26
+CUS01537,Consumer,South,2025-01-24
+CUS01538,Consumer,Central,2021-06-07
+CUS01539,Consumer,North,2023-07-04
+CUS01540,Small Business,Central,2023-02-20
+CUS01541,Consumer,North,2023-03-12
+CUS01542,Consumer,North,2021-11-02
+CUS01543,Corporate,North,2021-05-15
+CUS01544,Consumer,West,2022-09-25
+CUS01545,Small Business,South,2023-05-09
+CUS01546,Consumer,East,2024-12-19
+CUS01547,Small Business,East,2023-04-24
+CUS01548,Small Business,West,2022-03-25
+CUS01549,Small Business,South,2022-04-25
+CUS01550,Consumer,North,2024-01-22
+CUS01551,Consumer,South,2023-03-07
+CUS01552,Small Business,South,2025-07-03
+CUS01553,Consumer,West,2023-03-14
+CUS01554,Consumer,West,2023-11-01
+CUS01555,Consumer,North,2021-04-27
+CUS01556,Corporate,West,2021-12-20
+CUS01557,Consumer,North,2025-04-01
+CUS01558,Consumer,West,2022-09-22
+CUS01559,Small Business,South,2023-02-08
+CUS01560,Consumer,South,2023-12-14
+CUS01561,Consumer,East,2021-04-16
+CUS01562,Consumer,South,2023-07-14
+CUS01563,Consumer,West,2022-09-24
+CUS01564,Consumer,Central,2021-09-29
+CUS01565,Small Business,Central,2023-02-03
+CUS01566,Small Business,East,2023-03-27
+CUS01567,Consumer,East,2021-12-07
+CUS01568,Consumer,East,2023-09-19
+CUS01569,Consumer,West,2024-09-23
+CUS01570,Corporate,East,2022-05-03
+CUS01571,Small Business,East,2025-10-30
+CUS01572,Corporate,East,2024-01-23
+CUS01573,Consumer,South,2024-11-11
+CUS01574,Consumer,East,2021-05-09
+CUS01575,Consumer,West,2024-11-01
+CUS01576,Consumer,East,2022-09-07
+CUS01577,Consumer,Central,2024-07-20
+CUS01578,Consumer,Central,2025-01-07
+CUS01579,Corporate,East,2022-04-02
+CUS01580,Consumer,Central,2022-04-19
+CUS01581,Consumer,North,2021-04-19
+CUS01582,Small Business,Central,2024-01-10
+CUS01583,Consumer,South,2024-11-13
+CUS01584,Small Business,East,2023-01-19
+CUS01585,Consumer,South,2021-10-21
+CUS01586,Small Business,East,2022-08-01
+CUS01587,Consumer,South,2023-01-06
+CUS01588,Consumer,West,2025-07-30
+CUS01589,Consumer,North,2021-08-15
+CUS01590,Consumer,Central,2022-09-19
+CUS01591,Consumer,Central,2024-03-10
+CUS01592,Consumer,East,2022-03-08
+CUS01593,Consumer,East,2025-06-03
+CUS01594,Small Business,West,2025-07-18
+CUS01595,Consumer,North,2022-11-25
+CUS01596,Consumer,West,2024-09-23
+CUS01597,Consumer,South,2024-10-11
+CUS01598,Small Business,West,2024-05-29
+CUS01599,Consumer,South,2021-12-07
+CUS01600,Consumer,West,2021-04-01
+CUS01601,Small Business,West,2022-09-26
+CUS01602,Consumer,South,2021-08-28
+CUS01603,Small Business,West,2022-06-18
+CUS01604,Consumer,East,2024-03-10
+CUS01605,Consumer,South,2023-12-11
+CUS01606,Consumer,East,2022-01-18
+CUS01607,Small Business,Central,2021-02-02
+CUS01608,Consumer,North,2022-02-16
+CUS01609,Consumer,Central,2023-04-11
+CUS01610,Consumer,Central,2024-11-22
+CUS01611,Consumer,East,2022-10-29
+CUS01612,Consumer,West,2022-06-06
+CUS01613,Consumer,South,2023-10-04
+CUS01614,Consumer,North,2021-05-11
+CUS01615,Consumer,East,2022-02-16
+CUS01616,Consumer,Central,2021-03-08
+CUS01617,Consumer,South,2023-08-18
+CUS01618,Consumer,West,2023-03-20
+CUS01619,Consumer,West,2023-11-30
+CUS01620,Consumer,West,2024-02-01
+CUS01621,Consumer,South,2022-12-23
+CUS01622,Consumer,South,2025-05-05
+CUS01623,Consumer,East,2025-08-03
+CUS01624,Consumer,Central,2021-07-22
+CUS01625,Small Business,Central,2025-08-07
+CUS01626,Consumer,East,2021-12-25
+CUS01627,Small Business,Central,2022-03-30
+CUS01628,Consumer,East,2023-08-25
+CUS01629,Small Business,South,2021-02-23
+CUS01630,Consumer,North,2022-10-27
+CUS01631,Consumer,West,2021-12-22
+CUS01632,Consumer,West,2023-05-31
+CUS01633,Corporate,Central,2025-01-26
+CUS01634,Consumer,West,2025-08-14
+CUS01635,Consumer,North,2022-01-23
+CUS01636,Consumer,East,2023-09-22
+CUS01637,Small Business,West,2023-05-16
+CUS01638,Consumer,East,2023-01-28
+CUS01639,Consumer,East,2024-02-29
+CUS01640,Consumer,Central,2025-12-11
+CUS01641,Corporate,West,2023-01-10
+CUS01642,Consumer,West,2021-04-30
+CUS01643,Consumer,East,2025-07-30
+CUS01644,Corporate,South,2025-08-29
+CUS01645,Consumer,East,2022-08-12
+CUS01646,Consumer,Central,2023-07-05
+CUS01647,Consumer,West,2025-04-24
+CUS01648,Consumer,West,2023-07-09
+CUS01649,Consumer,North,2023-05-29
+CUS01650,Consumer,Central,2025-08-10
+CUS01651,Small Business,South,2025-02-21
+CUS01652,Small Business,Central,2023-07-15
+CUS01653,Consumer,East,2021-10-22
+CUS01654,Consumer,Central,2023-03-12
+CUS01655,Consumer,Central,2024-05-19
+CUS01656,Corporate,West,2022-05-13
+CUS01657,Consumer,Central,2023-09-08
+CUS01658,Consumer,West,2024-04-17
+CUS01659,Consumer,Central,2021-06-05
+CUS01660,Consumer,North,2023-11-06
+CUS01661,Consumer,North,2024-09-08
+CUS01662,Small Business,East,2022-01-27
+CUS01663,Consumer,Central,2023-09-28
+CUS01664,Small Business,West,2024-07-18
+CUS01665,Consumer,East,2021-03-22
+CUS01666,Small Business,East,2024-03-21
+CUS01667,Small Business,West,2022-04-20
+CUS01668,Corporate,Central,2022-12-27
+CUS01669,Consumer,Central,2024-03-28
+CUS01670,Consumer,North,2021-01-09
+CUS01671,Consumer,East,2021-01-31
+CUS01672,Consumer,South,2023-03-27
+CUS01673,Consumer,West,2025-09-30
+CUS01674,Corporate,East,2021-01-12
+CUS01675,Corporate,Central,2024-12-10
+CUS01676,Consumer,East,2021-05-17
+CUS01677,Consumer,West,2023-06-12
+CUS01678,Small Business,North,2023-02-25
+CUS01679,Corporate,Central,2023-05-05
+CUS01680,Consumer,North,2021-05-30
+CUS01681,Consumer,South,2024-10-07
+CUS01682,Small Business,Central,2022-05-19
+CUS01683,Consumer,Central,2024-11-08
+CUS01684,Consumer,East,2024-04-11
+CUS01685,Corporate,East,2023-10-04
+CUS01686,Corporate,North,2022-07-18
+CUS01687,Small Business,Central,2024-04-05
+CUS01688,Small Business,North,2025-12-26
+CUS01689,Consumer,North,2025-08-12
+CUS01690,Consumer,East,2025-07-31
+CUS01691,Consumer,North,2022-02-05
+CUS01692,Consumer,North,2023-12-05
+CUS01693,Consumer,West,2022-12-27
+CUS01694,Consumer,West,2025-10-31
+CUS01695,Consumer,South,2025-09-30
+CUS01696,Small Business,West,2025-05-04
+CUS01697,Consumer,West,2021-10-24
+CUS01698,Consumer,South,2022-08-05
+CUS01699,Consumer,West,2024-07-22
+CUS01700,Consumer,East,2024-09-30
+CUS01701,Small Business,Central,2022-10-02
+CUS01702,Consumer,North,2021-09-07
+CUS01703,Consumer,South,2021-09-07
+CUS01704,Small Business,South,2024-06-03
+CUS01705,Consumer,South,2023-04-09
+CUS01706,Consumer,Central,2023-06-16
+CUS01707,Consumer,West,2025-01-28
+CUS01708,Consumer,East,2021-01-31
+CUS01709,Consumer,East,2024-10-09
+CUS01710,Consumer,Central,2022-05-16
+CUS01711,Consumer,East,2025-08-27
+CUS01712,Consumer,South,2025-10-10
+CUS01713,Consumer,North,2023-07-06
+CUS01714,Consumer,South,2022-07-31
+CUS01715,Small Business,West,2022-03-02
+CUS01716,Consumer,East,2021-11-28
+CUS01717,Consumer,East,2025-12-29
+CUS01718,Consumer,East,2021-12-09
+CUS01719,Consumer,Central,2023-03-26
+CUS01720,Consumer,Central,2023-05-25
+CUS01721,Small Business,North,2024-05-24
+CUS01722,Small Business,North,2025-03-18
+CUS01723,Consumer,South,2023-10-16
+CUS01724,Consumer,Central,2024-10-15
+CUS01725,Small Business,East,2023-11-01
+CUS01726,Consumer,Central,2023-03-09
+CUS01727,Consumer,West,2021-10-15
+CUS01728,Consumer,East,2022-01-16
+CUS01729,Consumer,South,2023-03-01
+CUS01730,Small Business,South,2021-03-26
+CUS01731,Consumer,North,2022-08-01
+CUS01732,Corporate,East,2023-04-25
+CUS01733,Consumer,South,2023-05-13
+CUS01734,Consumer,South,2025-01-26
+CUS01735,Consumer,North,2025-11-01
+CUS01736,Consumer,West,2024-08-24
+CUS01737,Consumer,Central,2021-05-26
+CUS01738,Consumer,East,2023-01-16
+CUS01739,Consumer,East,2024-08-25
+CUS01740,Consumer,Central,2023-12-22
+CUS01741,Consumer,East,2023-04-16
+CUS01742,Consumer,West,2023-03-08
+CUS01743,Consumer,East,2023-01-11
+CUS01744,Consumer,East,2023-11-23
+CUS01745,Small Business,East,2021-11-23
+CUS01746,Small Business,West,2023-08-03
+CUS01747,Consumer,West,2022-01-11
+CUS01748,Consumer,East,2024-05-27
+CUS01749,Consumer,North,2025-04-28
+CUS01750,Consumer,Central,2023-07-16
+CUS01751,Consumer,Central,2022-12-09
+CUS01752,Consumer,North,2025-09-13
+CUS01753,Consumer,South,2024-04-18
+CUS01754,Consumer,Central,2023-02-21
+CUS01755,Consumer,South,2021-02-22
+CUS01756,Consumer,Central,2021-01-30
+CUS01757,Small Business,West,2022-02-09
+CUS01758,Corporate,Central,2022-03-08
+CUS01759,Consumer,North,2024-08-09
+CUS01760,Corporate,East,2023-07-03
+CUS01761,Consumer,East,2025-12-30
+CUS01762,Corporate,Central,2023-09-14
+CUS01763,Corporate,South,2025-07-07
+CUS01764,Consumer,South,2023-10-06
+CUS01765,Small Business,North,2022-10-16
+CUS01766,Corporate,West,2024-07-28
+CUS01767,Small Business,Central,2023-04-01
+CUS01768,Corporate,North,2022-05-17
+CUS01769,Consumer,South,2023-05-14
+CUS01770,Consumer,South,2024-04-28
+CUS01771,Small Business,Central,2022-11-17
+CUS01772,Consumer,East,2024-07-08
+CUS01773,Consumer,South,2025-11-25
+CUS01774,Consumer,South,2023-01-21
+CUS01775,Consumer,East,2022-06-23
+CUS01776,Consumer,South,2023-01-04
+CUS01777,Small Business,North,2025-03-10
+CUS01778,Consumer,Central,2021-11-23
+CUS01779,Small Business,East,2025-11-12
+CUS01780,Small Business,South,2023-01-26
+CUS01781,Consumer,West,2025-03-16
+CUS01782,Consumer,West,2024-12-06
+CUS01783,Consumer,North,2024-12-01
+CUS01784,Corporate,North,2025-07-17
+CUS01785,Small Business,North,2021-12-04
+CUS01786,Consumer,West,2023-12-20
+CUS01787,Consumer,West,2021-06-30
+CUS01788,Consumer,West,2022-07-01
+CUS01789,Consumer,West,2021-03-16
+CUS01790,Corporate,East,2024-05-30
+CUS01791,Small Business,East,2024-01-15
+CUS01792,Consumer,West,2024-09-12
+CUS01793,Small Business,South,2021-11-18
+CUS01794,Consumer,Central,2022-08-30
+CUS01795,Small Business,Central,2024-05-19
+CUS01796,Consumer,Central,2025-02-17
+CUS01797,Consumer,Central,2025-06-05
+CUS01798,Corporate,South,2021-05-15
+CUS01799,Consumer,North,2023-01-05
+CUS01800,Consumer,East,2021-01-20
+CUS01801,Corporate,West,2025-02-02
+CUS01802,Consumer,West,2021-08-13
+CUS01803,Consumer,South,2025-02-09
+CUS01804,Consumer,South,2021-10-12
+CUS01805,Consumer,East,2021-01-29
+CUS01806,Consumer,Central,2025-05-24
+CUS01807,Consumer,North,2023-03-12
+CUS01808,Small Business,South,2023-02-15
+CUS01809,Consumer,South,2024-03-26
+CUS01810,Consumer,Central,2022-05-17
+CUS01811,Small Business,East,2024-06-14
+CUS01812,Consumer,North,2023-02-23
+CUS01813,Small Business,South,2022-05-13
+CUS01814,Consumer,North,2022-12-22
+CUS01815,Corporate,East,2021-01-12
+CUS01816,Consumer,Central,2022-07-05
+CUS01817,Consumer,East,2023-12-16
+CUS01818,Small Business,Central,2021-09-09
+CUS01819,Consumer,West,2021-08-05
+CUS01820,Consumer,Central,2024-04-12
+CUS01821,Consumer,South,2023-02-21
+CUS01822,Consumer,Central,2021-09-07
+CUS01823,Consumer,South,2024-09-26
+CUS01824,Consumer,East,2024-11-16
+CUS01825,Consumer,West,2021-03-05
+CUS01826,Consumer,South,2022-01-04
+CUS01827,Consumer,South,2022-11-07
+CUS01828,Consumer,North,2024-08-27
+CUS01829,Consumer,North,2021-05-16
+CUS01830,Consumer,East,2025-01-10
+CUS01831,Consumer,Central,2022-08-06
+CUS01832,Consumer,South,2021-08-17
+CUS01833,Consumer,East,2025-04-25
+CUS01834,Consumer,Central,2021-06-08
+CUS01835,Consumer,West,2021-08-25
+CUS01836,Consumer,North,2025-09-29
+CUS01837,Consumer,East,2023-08-07
+CUS01838,Consumer,North,2023-04-26
+CUS01839,Small Business,South,2024-06-08
+CUS01840,Consumer,South,2024-02-25
+CUS01841,Consumer,West,2024-01-25
+CUS01842,Consumer,North,2021-02-12
+CUS01843,Consumer,South,2023-10-04
+CUS01844,Consumer,South,2022-05-24
+CUS01845,Consumer,South,2025-01-13
+CUS01846,Consumer,West,2023-07-12
+CUS01847,Consumer,South,2021-08-14
+CUS01848,Small Business,South,2025-06-06
+CUS01849,Corporate,East,2022-06-03
+CUS01850,Consumer,West,2022-05-11
+CUS01851,Consumer,North,2025-09-05
+CUS01852,Small Business,Central,2024-11-15
+CUS01853,Consumer,Central,2025-04-18
+CUS01854,Small Business,West,2024-04-23
+CUS01855,Consumer,East,2025-07-20
+CUS01856,Corporate,West,2021-07-30
+CUS01857,Corporate,East,2023-12-31
+CUS01858,Consumer,South,2022-06-20
+CUS01859,Consumer,South,2022-12-29
+CUS01860,Consumer,North,2022-03-11
+CUS01861,Consumer,Central,2022-01-10
+CUS01862,Consumer,South,2023-03-19
+CUS01863,Corporate,South,2025-08-03
+CUS01864,Consumer,Central,2024-03-05
+CUS01865,Consumer,East,2022-09-30
+CUS01866,Small Business,West,2023-03-02
+CUS01867,Consumer,South,2023-08-25
+CUS01868,Consumer,South,2022-03-23
+CUS01869,Corporate,West,2023-08-10
+CUS01870,Consumer,East,2024-06-23
+CUS01871,Consumer,North,2022-03-20
+CUS01872,Consumer,Central,2023-12-03
+CUS01873,Corporate,East,2024-07-16
+CUS01874,Consumer,West,2023-08-06
+CUS01875,Consumer,South,2022-06-17
+CUS01876,Consumer,East,2023-10-09
+CUS01877,Consumer,West,2024-12-18
+CUS01878,Corporate,Central,2022-02-09
+CUS01879,Consumer,South,2023-11-15
+CUS01880,Corporate,West,2024-05-26
+CUS01881,Consumer,Central,2022-08-10
+CUS01882,Consumer,West,2022-12-09
+CUS01883,Small Business,North,2025-06-11
+CUS01884,Consumer,North,2022-10-26
+CUS01885,Consumer,South,2023-12-28
+CUS01886,Small Business,North,2021-10-01
+CUS01887,Consumer,West,2025-08-17
+CUS01888,Consumer,Central,2023-12-26
+CUS01889,Corporate,East,2024-10-19
+CUS01890,Consumer,East,2024-01-05
+CUS01891,Consumer,West,2022-10-11
+CUS01892,Consumer,East,2022-09-14
+CUS01893,Consumer,East,2024-07-03
+CUS01894,Consumer,East,2025-04-19
+CUS01895,Consumer,South,2021-08-21
+CUS01896,Consumer,North,2025-03-23
+CUS01897,Consumer,East,2025-02-23
+CUS01898,Consumer,Central,2021-07-19
+CUS01899,Consumer,North,2021-07-17
+CUS01900,Consumer,South,2024-06-22
+CUS01901,Consumer,South,2025-03-19
+CUS01902,Consumer,Central,2022-12-20
+CUS01903,Consumer,East,2024-03-15
+CUS01904,Small Business,East,2025-12-30
+CUS01905,Consumer,West,2022-08-13
+CUS01906,Consumer,South,2022-02-15
+CUS01907,Small Business,West,2025-12-15
+CUS01908,Consumer,North,2022-05-27
+CUS01909,Consumer,North,2023-05-13
+CUS01910,Consumer,Central,2023-03-18
+CUS01911,Consumer,West,2023-08-13
+CUS01912,Consumer,North,2022-05-06
+CUS01913,Small Business,East,2024-05-24
+CUS01914,Consumer,North,2024-06-16
+CUS01915,Small Business,West,2022-01-02
+CUS01916,Corporate,West,2023-05-28
+CUS01917,Consumer,South,2021-04-15
+CUS01918,Consumer,South,2022-02-08
+CUS01919,Consumer,South,2025-12-07
+CUS01920,Corporate,South,2023-07-14
+CUS01921,Consumer,South,2024-02-11
+CUS01922,Consumer,South,2025-06-11
+CUS01923,Consumer,East,2024-07-26
+CUS01924,Consumer,Central,2024-12-17
+CUS01925,Consumer,West,2024-07-23
+CUS01926,Consumer,South,2023-06-30
+CUS01927,Consumer,Central,2024-02-29
+CUS01928,Corporate,South,2022-06-11
+CUS01929,Consumer,Central,2025-06-14
+CUS01930,Consumer,South,2021-11-25
+CUS01931,Consumer,East,2025-06-02
+CUS01932,Consumer,South,2025-05-23
+CUS01933,Consumer,West,2021-09-17
+CUS01934,Consumer,South,2024-07-20
+CUS01935,Consumer,Central,2025-12-12
+CUS01936,Consumer,North,2023-11-11
+CUS01937,Consumer,East,2022-09-14
+CUS01938,Consumer,North,2025-05-24
+CUS01939,Consumer,Central,2023-07-25
+CUS01940,Consumer,East,2021-08-11
+CUS01941,Consumer,West,2022-03-31
+CUS01942,Consumer,Central,2024-05-30
+CUS01943,Consumer,East,2023-04-12
+CUS01944,Small Business,North,2022-01-31
+CUS01945,Corporate,South,2024-12-29
+CUS01946,Corporate,South,2021-08-09
+CUS01947,Consumer,Central,2022-02-04
+CUS01948,Consumer,Central,2023-04-30
+CUS01949,Consumer,East,2021-03-14
+CUS01950,Small Business,Central,2022-12-08
+CUS01951,Small Business,South,2025-07-19
+CUS01952,Small Business,West,2025-09-14
+CUS01953,Small Business,South,2025-05-11
+CUS01954,Consumer,South,2022-08-15
+CUS01955,Small Business,South,2021-04-29
+CUS01956,Small Business,East,2025-01-27
+CUS01957,Consumer,South,2022-11-13
+CUS01958,Corporate,South,2024-09-28
+CUS01959,Consumer,South,2021-08-06
+CUS01960,Corporate,North,2024-05-03
+CUS01961,Small Business,Central,2023-12-07
+CUS01962,Consumer,South,2025-08-07
+CUS01963,Consumer,North,2021-07-06
+CUS01964,Consumer,East,2023-01-15
+CUS01965,Small Business,Central,2025-12-12
+CUS01966,Small Business,South,2022-12-13
+CUS01967,Consumer,Central,2024-04-15
+CUS01968,Small Business,West,2021-10-21
+CUS01969,Consumer,West,2024-08-22
+CUS01970,Consumer,South,2022-05-19
+CUS01971,Consumer,North,2023-11-11
+CUS01972,Consumer,South,2025-05-25
+CUS01973,Consumer,Central,2024-04-21
+CUS01974,Consumer,West,2023-05-16
+CUS01975,Consumer,West,2021-12-13
+CUS01976,Consumer,Central,2022-09-15
+CUS01977,Small Business,South,2025-03-30
+CUS01978,Consumer,South,2022-01-30
+CUS01979,Small Business,Central,2024-04-12
+CUS01980,Consumer,East,2023-06-05
+CUS01981,Consumer,South,2022-08-09
+CUS01982,Consumer,South,2024-07-31
+CUS01983,Consumer,Central,2022-10-23
+CUS01984,Consumer,North,2022-06-08
+CUS01985,Consumer,North,2023-08-24
+CUS01986,Consumer,West,2024-10-14
+CUS01987,Consumer,North,2025-04-27
+CUS01988,Consumer,North,2024-02-24
+CUS01989,Consumer,Central,2024-04-23
+CUS01990,Small Business,East,2024-12-08
+CUS01991,Consumer,West,2022-05-07
+CUS01992,Corporate,East,2022-04-03
+CUS01993,Small Business,North,2023-06-03
+CUS01994,Corporate,North,2024-02-26
+CUS01995,Small Business,West,2024-03-24
+CUS01996,Consumer,North,2021-10-08
+CUS01997,Consumer,East,2024-11-25
+CUS01998,Consumer,South,2022-10-26
+CUS01999,Small Business,South,2025-05-21
+CUS02000,Consumer,Central,2024-08-14
+CUS02001,Consumer,West,2025-11-29
+CUS02002,Corporate,West,2024-02-27
+CUS02003,Consumer,South,2023-08-21
+CUS02004,Consumer,South,2021-12-09
+CUS02005,Small Business,West,2022-12-29
+CUS02006,Consumer,North,2025-04-16
+CUS02007,Consumer,South,2022-11-29
+CUS02008,Small Business,West,2021-04-08
+CUS02009,Consumer,West,2022-03-24
+CUS02010,Consumer,North,2023-12-23
+CUS02011,Consumer,West,2024-02-23
+CUS02012,Consumer,East,2025-12-01
+CUS02013,Consumer,South,2025-09-01
+CUS02014,Corporate,West,2023-08-28
+CUS02015,Small Business,Central,2023-10-09
+CUS02016,Consumer,East,2025-01-01
+CUS02017,Consumer,South,2021-03-30
+CUS02018,Consumer,South,2023-12-23
+CUS02019,Consumer,East,2023-05-16
+CUS02020,Consumer,North,2024-11-30
+CUS02021,Consumer,East,2024-12-31
+CUS02022,Consumer,North,2024-04-11
+CUS02023,Corporate,North,2024-04-14
+CUS02024,Consumer,East,2024-06-15
+CUS02025,Small Business,West,2023-11-25
+CUS02026,Consumer,Central,2022-02-20
+CUS02027,Corporate,North,2022-06-04
+CUS02028,Consumer,South,2024-09-15
+CUS02029,Consumer,East,2024-02-03
+CUS02030,Corporate,East,2022-03-11
+CUS02031,Corporate,Central,2025-05-22
+CUS02032,Consumer,West,2025-11-25
+CUS02033,Consumer,East,2024-02-17
+CUS02034,Consumer,North,2022-02-20
+CUS02035,Consumer,North,2025-09-09
+CUS02036,Consumer,North,2022-03-08
+CUS02037,Small Business,West,2023-03-01
+CUS02038,Consumer,South,2025-04-17
+CUS02039,Consumer,South,2023-08-09
+CUS02040,Consumer,West,2022-03-20
+CUS02041,Consumer,Central,2021-05-27
+CUS02042,Consumer,East,2022-10-21
+CUS02043,Consumer,Central,2024-05-11
+CUS02044,Consumer,West,2024-07-28
+CUS02045,Consumer,West,2022-02-11
+CUS02046,Corporate,Central,2021-10-17
+CUS02047,Small Business,North,2024-07-04
+CUS02048,Small Business,West,2021-10-18
+CUS02049,Consumer,Central,2021-04-28
+CUS02050,Consumer,Central,2023-06-07
+CUS02051,Consumer,East,2023-11-08
+CUS02052,Consumer,West,2022-03-21
+CUS02053,Consumer,Central,2022-01-21
+CUS02054,Consumer,Central,2022-03-07
+CUS02055,Consumer,Central,2022-09-18
+CUS02056,Consumer,Central,2021-01-17
+CUS02057,Consumer,South,2021-01-22
+CUS02058,Consumer,West,2022-11-08
+CUS02059,Consumer,East,2021-02-06
+CUS02060,Consumer,Central,2022-08-04
+CUS02061,Consumer,Central,2023-11-27
+CUS02062,Consumer,Central,2021-02-26
+CUS02063,Consumer,East,2024-02-02
+CUS02064,Small Business,East,2024-02-08
+CUS02065,Consumer,North,2023-11-13
+CUS02066,Consumer,West,2024-02-18
+CUS02067,Corporate,East,2025-01-16
+CUS02068,Consumer,East,2021-05-10
+CUS02069,Small Business,West,2021-11-05
+CUS02070,Small Business,Central,2022-08-02
+CUS02071,Consumer,North,2024-06-09
+CUS02072,Consumer,East,2025-05-12
+CUS02073,Consumer,West,2025-08-04
+CUS02074,Corporate,Central,2023-11-29
+CUS02075,Consumer,West,2023-01-19
+CUS02076,Consumer,West,2023-01-22
+CUS02077,Consumer,Central,2021-04-20
+CUS02078,Consumer,Central,2023-04-29
+CUS02079,Small Business,West,2023-07-25
+CUS02080,Consumer,South,2022-01-16
+CUS02081,Small Business,East,2024-11-02
+CUS02082,Small Business,West,2025-01-21
+CUS02083,Consumer,North,2022-07-06
+CUS02084,Consumer,West,2025-07-27
+CUS02085,Small Business,East,2021-07-15
+CUS02086,Small Business,Central,2025-07-20
+CUS02087,Small Business,South,2024-11-02
+CUS02088,Consumer,Central,2022-02-13
+CUS02089,Consumer,East,2024-04-01
+CUS02090,Consumer,East,2022-07-22
+CUS02091,Small Business,West,2024-12-30
+CUS02092,Consumer,East,2021-10-21
+CUS02093,Consumer,Central,2022-03-23
+CUS02094,Consumer,North,2022-07-15
+CUS02095,Consumer,West,2021-12-31
+CUS02096,Consumer,Central,2022-08-31
+CUS02097,Consumer,South,2024-01-05
+CUS02098,Consumer,South,2024-03-01
+CUS02099,Small Business,East,2023-10-08
+CUS02100,Small Business,West,2021-12-13
+CUS02101,Consumer,Central,2022-01-05
+CUS02102,Consumer,West,2025-08-05
+CUS02103,Corporate,West,2022-04-04
+CUS02104,Consumer,East,2021-07-08
+CUS02105,Consumer,West,2023-04-09
+CUS02106,Consumer,South,2021-01-13
+CUS02107,Consumer,East,2022-09-18
+CUS02108,Consumer,North,2025-04-10
+CUS02109,Small Business,North,2022-05-03
+CUS02110,Consumer,Central,2024-07-08
+CUS02111,Consumer,Central,2023-06-13
+CUS02112,Small Business,East,2022-10-11
+CUS02113,Corporate,North,2024-04-22
+CUS02114,Small Business,North,2023-12-23
+CUS02115,Consumer,North,2022-08-04
+CUS02116,Consumer,West,2022-02-12
+CUS02117,Consumer,South,2025-08-01
+CUS02118,Consumer,South,2021-11-04
+CUS02119,Consumer,Central,2025-10-18
+CUS02120,Consumer,Central,2023-05-10
+CUS02121,Consumer,West,2025-12-25
+CUS02122,Small Business,South,2022-10-07
+CUS02123,Corporate,East,2023-10-30
+CUS02124,Consumer,South,2024-01-28
+CUS02125,Consumer,Central,2022-09-11
+CUS02126,Consumer,North,2022-02-03
+CUS02127,Consumer,West,2023-08-08
+CUS02128,Consumer,East,2024-04-24
+CUS02129,Consumer,West,2022-04-23
+CUS02130,Small Business,East,2024-10-31
+CUS02131,Consumer,North,2024-03-11
+CUS02132,Small Business,West,2021-11-01
+CUS02133,Consumer,West,2025-09-10
+CUS02134,Consumer,East,2021-03-22
+CUS02135,Consumer,South,2024-04-08
+CUS02136,Consumer,South,2023-03-14
+CUS02137,Consumer,East,2024-04-08
+CUS02138,Corporate,South,2024-11-13
+CUS02139,Consumer,South,2024-06-08
+CUS02140,Consumer,South,2024-04-02
+CUS02141,Consumer,North,2025-03-15
+CUS02142,Consumer,Central,2024-07-04
+CUS02143,Consumer,South,2025-01-25
+CUS02144,Consumer,North,2023-01-06
+CUS02145,Small Business,North,2022-01-06
+CUS02146,Consumer,Central,2022-03-05
+CUS02147,Consumer,East,2024-01-23
+CUS02148,Consumer,South,2023-08-29
+CUS02149,Small Business,East,2021-05-21
+CUS02150,Consumer,North,2022-01-08
+CUS02151,Consumer,South,2025-11-01
+CUS02152,Consumer,South,2024-08-18
+CUS02153,Consumer,Central,2024-10-09
+CUS02154,Consumer,North,2021-12-26
+CUS02155,Small Business,East,2021-04-28
+CUS02156,Consumer,West,2022-06-16
+CUS02157,Small Business,Central,2025-04-13
+CUS02158,Consumer,East,2023-07-14
+CUS02159,Small Business,South,2024-12-02
+CUS02160,Small Business,South,2023-06-08
+CUS02161,Consumer,South,2023-06-14
+CUS02162,Consumer,West,2024-01-02
+CUS02163,Consumer,South,2025-10-17
+CUS02164,Small Business,West,2023-03-10
+CUS02165,Consumer,West,2023-12-24
+CUS02166,Consumer,Central,2025-08-06
+CUS02167,Consumer,South,2022-11-11
+CUS02168,Small Business,Central,2025-03-13
+CUS02169,Consumer,East,2023-09-04
+CUS02170,Consumer,West,2025-05-24
+CUS02171,Corporate,West,2023-05-04
+CUS02172,Consumer,Central,2024-02-23
+CUS02173,Small Business,East,2022-08-13
+CUS02174,Consumer,West,2024-03-04
+CUS02175,Consumer,South,2022-08-19
+CUS02176,Small Business,East,2024-01-17
+CUS02177,Consumer,East,2024-12-10
+CUS02178,Consumer,West,2023-03-05
+CUS02179,Consumer,West,2023-02-23
+CUS02180,Consumer,North,2022-08-11
+CUS02181,Consumer,Central,2024-08-26
+CUS02182,Consumer,West,2023-12-17
+CUS02183,Consumer,North,2023-08-01
+CUS02184,Consumer,Central,2021-02-16
+CUS02185,Consumer,West,2021-07-20
+CUS02186,Consumer,North,2021-01-14
+CUS02187,Consumer,East,2025-04-01
+CUS02188,Consumer,Central,2025-04-04
+CUS02189,Small Business,South,2021-05-04
+CUS02190,Consumer,Central,2021-03-26
+CUS02191,Consumer,East,2024-11-27
+CUS02192,Consumer,South,2023-08-16
+CUS02193,Small Business,South,2022-07-18
+CUS02194,Consumer,East,2024-01-28
+CUS02195,Consumer,West,2022-03-08
+CUS02196,Consumer,Central,2021-12-28
+CUS02197,Consumer,North,2022-11-02
+CUS02198,Small Business,Central,2025-06-23
+CUS02199,Corporate,East,2024-11-01
+CUS02200,Consumer,North,2021-12-13
+CUS02201,Small Business,Central,2023-10-23
+CUS02202,Consumer,South,2025-06-03
+CUS02203,Consumer,West,2025-10-03
+CUS02204,Small Business,West,2024-10-24
+CUS02205,Consumer,North,2021-08-24
+CUS02206,Consumer,South,2022-03-16
+CUS02207,Consumer,West,2022-02-03
+CUS02208,Corporate,South,2021-10-03
+CUS02209,Consumer,North,2021-11-16
+CUS02210,Consumer,North,2022-08-01
+CUS02211,Consumer,Central,2023-10-11
+CUS02212,Consumer,North,2022-12-28
+CUS02213,Consumer,North,2023-02-07
+CUS02214,Small Business,East,2022-03-25
+CUS02215,Small Business,North,2021-10-03
+CUS02216,Small Business,West,2025-12-28
+CUS02217,Small Business,East,2023-12-30
+CUS02218,Consumer,West,2022-02-24
+CUS02219,Consumer,East,2025-01-18
+CUS02220,Consumer,West,2025-02-24
+CUS02221,Consumer,West,2025-10-31
+CUS02222,Corporate,East,2021-10-18
+CUS02223,Consumer,North,2024-03-13
+CUS02224,Corporate,South,2025-11-24
+CUS02225,Consumer,North,2025-01-12
+CUS02226,Consumer,North,2022-02-16
+CUS02227,Consumer,South,2025-06-18
+CUS02228,Consumer,South,2023-02-09
+CUS02229,Consumer,North,2023-06-12
+CUS02230,Consumer,South,2023-10-17
+CUS02231,Consumer,East,2024-11-08
+CUS02232,Corporate,North,2021-08-08
+CUS02233,Consumer,South,2023-09-12
+CUS02234,Consumer,North,2025-01-30
+CUS02235,Small Business,North,2023-09-29
+CUS02236,Consumer,North,2022-05-17
+CUS02237,Small Business,East,2021-04-13
+CUS02238,Small Business,West,2023-09-30
+CUS02239,Consumer,West,2024-07-07
+CUS02240,Consumer,West,2023-10-01
+CUS02241,Consumer,West,2025-11-23
+CUS02242,Small Business,Central,2024-01-05
+CUS02243,Small Business,South,2023-07-17
+CUS02244,Consumer,West,2021-04-12
+CUS02245,Consumer,Central,2023-10-17
+CUS02246,Consumer,East,2021-11-04
+CUS02247,Consumer,Central,2024-08-15
+CUS02248,Corporate,North,2021-10-22
+CUS02249,Consumer,Central,2025-07-13
+CUS02250,Consumer,East,2022-07-06
+CUS02251,Consumer,South,2023-03-04
+CUS02252,Small Business,North,2021-09-22
+CUS02253,Corporate,West,2022-01-20
+CUS02254,Consumer,East,2025-08-10
+CUS02255,Consumer,South,2022-06-02
+CUS02256,Consumer,South,2023-07-26
+CUS02257,Consumer,Central,2025-11-27
+CUS02258,Consumer,East,2024-02-13
+CUS02259,Consumer,North,2021-03-17
+CUS02260,Consumer,South,2022-10-15
+CUS02261,Consumer,North,2022-12-08
+CUS02262,Consumer,West,2022-05-20
+CUS02263,Consumer,Central,2022-03-17
+CUS02264,Small Business,Central,2023-07-08
+CUS02265,Consumer,West,2022-11-20
+CUS02266,Small Business,West,2022-06-22
+CUS02267,Consumer,East,2023-01-24
+CUS02268,Consumer,West,2022-09-20
+CUS02269,Consumer,North,2022-02-22
+CUS02270,Consumer,East,2023-04-07
+CUS02271,Consumer,East,2025-09-16
+CUS02272,Consumer,North,2023-07-12
+CUS02273,Small Business,East,2023-12-27
+CUS02274,Consumer,West,2025-12-02
+CUS02275,Consumer,South,2024-01-25
+CUS02276,Consumer,East,2022-02-12
+CUS02277,Consumer,South,2022-12-29
+CUS02278,Small Business,South,2023-06-10
+CUS02279,Small Business,North,2023-05-17
+CUS02280,Consumer,South,2021-09-30
+CUS02281,Consumer,Central,2021-07-13
+CUS02282,Consumer,Central,2022-10-01
+CUS02283,Consumer,West,2025-07-27
+CUS02284,Small Business,West,2024-08-02
+CUS02285,Small Business,West,2025-03-17
+CUS02286,Consumer,East,2021-11-15
+CUS02287,Consumer,East,2023-01-27
+CUS02288,Consumer,West,2023-11-27
+CUS02289,Consumer,West,2023-03-04
+CUS02290,Consumer,East,2023-01-31
+CUS02291,Consumer,East,2022-10-19
+CUS02292,Corporate,East,2021-04-05
+CUS02293,Consumer,South,2025-04-14
+CUS02294,Consumer,South,2025-08-30
+CUS02295,Consumer,North,2021-05-28
+CUS02296,Consumer,East,2023-01-25
+CUS02297,Small Business,West,2023-08-04
+CUS02298,Consumer,West,2024-12-01
+CUS02299,Small Business,Central,2025-12-06
+CUS02300,Small Business,North,2023-01-30
+CUS02301,Consumer,West,2024-09-28
+CUS02302,Consumer,West,2025-09-07
+CUS02303,Corporate,East,2025-02-24
+CUS02304,Consumer,South,2022-06-15
+CUS02305,Consumer,South,2025-01-31
+CUS02306,Corporate,West,2023-01-23
+CUS02307,Small Business,Central,2021-02-01
+CUS02308,Consumer,West,2024-10-16
+CUS02309,Consumer,East,2025-03-05
+CUS02310,Consumer,West,2022-09-20
+CUS02311,Small Business,North,2023-04-03
+CUS02312,Consumer,West,2022-10-27
+CUS02313,Consumer,North,2021-08-02
+CUS02314,Consumer,Central,2025-12-21
+CUS02315,Corporate,Central,2021-02-11
+CUS02316,Small Business,East,2023-10-11
+CUS02317,Consumer,South,2021-01-28
+CUS02318,Consumer,West,2024-06-12
+CUS02319,Corporate,West,2025-07-03
+CUS02320,Corporate,West,2024-03-20
+CUS02321,Consumer,East,2024-01-12
+CUS02322,Consumer,South,2025-02-19
+CUS02323,Consumer,North,2025-11-13
+CUS02324,Consumer,South,2025-04-22
+CUS02325,Consumer,East,2022-02-27
+CUS02326,Consumer,East,2023-10-25
+CUS02327,Consumer,East,2025-02-03
+CUS02328,Small Business,South,2022-06-22
+CUS02329,Consumer,Central,2024-05-17
+CUS02330,Consumer,South,2021-02-11
+CUS02331,Consumer,Central,2025-05-21
+CUS02332,Consumer,South,2024-01-27
+CUS02333,Consumer,East,2024-09-18
+CUS02334,Consumer,West,2025-02-15
+CUS02335,Consumer,South,2022-02-04
+CUS02336,Consumer,South,2023-04-03
+CUS02337,Small Business,South,2025-04-17
+CUS02338,Consumer,Central,2021-10-28
+CUS02339,Small Business,North,2025-02-09
+CUS02340,Small Business,East,2022-06-10
+CUS02341,Small Business,West,2023-11-17
+CUS02342,Consumer,West,2023-07-20
+CUS02343,Consumer,East,2024-06-06
+CUS02344,Consumer,North,2025-03-07
+CUS02345,Consumer,North,2022-09-29
+CUS02346,Consumer,East,2021-11-10
+CUS02347,Corporate,Central,2023-02-11
+CUS02348,Consumer,North,2024-01-23
+CUS02349,Small Business,Central,2024-10-01
+CUS02350,Consumer,West,2024-10-06
+CUS02351,Consumer,North,2022-09-13
+CUS02352,Consumer,South,2025-09-05
+CUS02353,Consumer,South,2021-06-01
+CUS02354,Consumer,Central,2021-08-01
+CUS02355,Consumer,East,2021-02-15
+CUS02356,Consumer,South,2025-08-18
+CUS02357,Consumer,South,2021-11-25
+CUS02358,Consumer,East,2024-01-03
+CUS02359,Corporate,North,2025-01-23
+CUS02360,Consumer,South,2024-10-31
+CUS02361,Consumer,North,2025-09-28
+CUS02362,Consumer,West,2021-04-09
+CUS02363,Consumer,West,2023-01-13
+CUS02364,Consumer,East,2023-07-13
+CUS02365,Consumer,North,2024-06-24
+CUS02366,Corporate,South,2024-02-11
+CUS02367,Consumer,Central,2023-10-19
+CUS02368,Consumer,South,2022-07-14
+CUS02369,Consumer,North,2021-07-14
+CUS02370,Consumer,North,2023-02-27
+CUS02371,Consumer,Central,2022-04-19
+CUS02372,Consumer,North,2023-10-09
+CUS02373,Consumer,East,2024-12-25
+CUS02374,Consumer,Central,2023-10-06
+CUS02375,Small Business,West,2023-12-01
+CUS02376,Consumer,East,2021-03-18
+CUS02377,Consumer,South,2024-03-22
+CUS02378,Consumer,North,2023-03-14
+CUS02379,Consumer,North,2021-08-14
+CUS02380,Consumer,Central,2022-01-26
+CUS02381,Consumer,North,2024-11-25
+CUS02382,Corporate,North,2025-07-31
+CUS02383,Consumer,Central,2023-07-16
+CUS02384,Consumer,East,2025-11-18
+CUS02385,Small Business,South,2021-11-25
+CUS02386,Small Business,West,2022-07-01
+CUS02387,Consumer,East,2025-08-25
+CUS02388,Consumer,Central,2021-11-16
+CUS02389,Consumer,East,2024-04-18
+CUS02390,Small Business,West,2022-02-05
+CUS02391,Consumer,Central,2022-08-28
+CUS02392,Corporate,East,2023-05-22
+CUS02393,Consumer,South,2022-10-19
+CUS02394,Small Business,Central,2025-05-15
+CUS02395,Consumer,South,2025-11-11
+CUS02396,Consumer,North,2023-07-02
+CUS02397,Consumer,East,2023-08-17
+CUS02398,Consumer,Central,2021-04-12
+CUS02399,Consumer,North,2022-03-04
+CUS02400,Consumer,Central,2021-03-14
+CUS02401,Consumer,Central,2025-04-13
+CUS02402,Consumer,Central,2022-02-19
+CUS02403,Small Business,East,2022-09-14
+CUS02404,Small Business,South,2025-03-19
+CUS02405,Consumer,East,2024-07-25
+CUS02406,Consumer,North,2024-02-09
+CUS02407,Consumer,Central,2021-03-12
+CUS02408,Small Business,West,2023-10-25
+CUS02409,Consumer,East,2023-10-21
+CUS02410,Consumer,East,2022-08-06
+CUS02411,Corporate,West,2024-09-21
+CUS02412,Corporate,East,2025-08-24
+CUS02413,Consumer,Central,2022-04-18
+CUS02414,Consumer,Central,2022-08-28
+CUS02415,Consumer,Central,2022-08-12
+CUS02416,Small Business,West,2025-03-04
+CUS02417,Consumer,West,2021-05-22
+CUS02418,Consumer,South,2025-06-24
+CUS02419,Consumer,North,2024-11-15
+CUS02420,Consumer,East,2023-06-02
+CUS02421,Consumer,Central,2023-12-01
+CUS02422,Consumer,North,2025-06-21
+CUS02423,Small Business,East,2024-11-05
+CUS02424,Small Business,North,2022-05-21
+CUS02425,Consumer,East,2021-04-02
+CUS02426,Small Business,North,2024-04-16
+CUS02427,Consumer,West,2021-09-24
+CUS02428,Consumer,Central,2021-06-10
+CUS02429,Consumer,West,2025-11-28
+CUS02430,Small Business,West,2023-05-15
+CUS02431,Small Business,South,2024-04-02
+CUS02432,Small Business,East,2022-02-01
+CUS02433,Small Business,North,2021-07-05
+CUS02434,Corporate,South,2021-04-25
+CUS02435,Consumer,East,2022-10-09
+CUS02436,Corporate,West,2021-01-07
+CUS02437,Consumer,North,2023-02-06
+CUS02438,Consumer,Central,2022-08-16
+CUS02439,Consumer,East,2023-08-20
+CUS02440,Consumer,Central,2023-12-12
+CUS02441,Consumer,East,2022-07-17
+CUS02442,Consumer,East,2023-04-11
+CUS02443,Consumer,West,2021-05-23
+CUS02444,Consumer,Central,2022-07-05
+CUS02445,Small Business,North,2025-11-21
+CUS02446,Consumer,East,2025-12-14
+CUS02447,Consumer,North,2023-06-06
+CUS02448,Consumer,East,2025-09-11
+CUS02449,Consumer,Central,2023-07-04
+CUS02450,Consumer,Central,2021-08-18
+CUS02451,Small Business,South,2025-05-03
+CUS02452,Consumer,South,2023-01-28
+CUS02453,Consumer,East,2024-01-23
+CUS02454,Small Business,South,2024-03-30
+CUS02455,Consumer,North,2022-07-17
+CUS02456,Small Business,South,2024-08-31
+CUS02457,Consumer,East,2023-07-04
+CUS02458,Small Business,East,2022-10-31
+CUS02459,Small Business,Central,2022-06-28
+CUS02460,Small Business,East,2024-09-23
+CUS02461,Consumer,South,2022-04-01
+CUS02462,Small Business,West,2021-08-15
+CUS02463,Corporate,West,2025-05-29
+CUS02464,Consumer,East,2022-08-29
+CUS02465,Small Business,East,2024-03-15
+CUS02466,Small Business,South,2024-07-31
+CUS02467,Consumer,Central,2025-03-10
+CUS02468,Corporate,Central,2024-02-16
+CUS02469,Consumer,North,2024-07-15
+CUS02470,Consumer,South,2025-03-08
+CUS02471,Consumer,South,2025-09-18
+CUS02472,Consumer,Central,2021-03-27
+CUS02473,Small Business,North,2024-09-18
+CUS02474,Consumer,South,2021-11-15
+CUS02475,Consumer,South,2025-06-15
+CUS02476,Consumer,East,2021-03-30
+CUS02477,Consumer,South,2022-03-27
+CUS02478,Small Business,East,2021-12-17
+CUS02479,Small Business,West,2024-01-07
+CUS02480,Consumer,Central,2021-01-08
+CUS02481,Consumer,North,2021-02-01
+CUS02482,Consumer,North,2023-07-10
+CUS02483,Consumer,North,2025-11-09
+CUS02484,Consumer,Central,2023-08-23
+CUS02485,Consumer,West,2023-03-25
+CUS02486,Consumer,East,2024-04-15
+CUS02487,Consumer,West,2023-10-05
+CUS02488,Consumer,East,2022-12-04
+CUS02489,Consumer,South,2023-12-11
+CUS02490,Small Business,East,2021-01-06
+CUS02491,Small Business,West,2022-03-23
+CUS02492,Consumer,North,2024-05-14
+CUS02493,Small Business,West,2022-09-16
+CUS02494,Small Business,East,2021-04-10
+CUS02495,Consumer,North,2021-08-16
+CUS02496,Consumer,South,2025-04-30
+CUS02497,Consumer,East,2022-08-25
+CUS02498,Small Business,South,2021-02-11
+CUS02499,Consumer,South,2024-08-23
+CUS02500,Consumer,West,2023-08-27

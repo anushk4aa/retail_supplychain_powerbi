@@ -1,0 +1,19 @@
+StoreKey,StoreName,StoreType,Region,City,OpeningDate
+STR01,Chandigarh Standard,Standard,North,Chandigarh,2018-03-22
+STR02,Delhi Standard,Standard,North,Delhi,2020-02-23
+STR03,Jaipur Warehouse,Warehouse,North,Jaipur,2022-11-22
+STR04,Bengaluru Flagship,Flagship,South,Bengaluru,2022-05-25
+STR05,Chennai Flagship,Flagship,South,Chennai,2021-09-09
+STR06,Hyderabad Warehouse,Warehouse,South,Hyderabad,2022-05-23
+STR07,Kolkata Flagship,Flagship,East,Kolkata,2022-05-28
+STR08,Bhubaneswar Flagship,Flagship,East,Bhubaneswar,2020-07-22
+STR09,Mumbai Standard,Standard,West,Mumbai,2019-07-23
+STR10,Pune Flagship,Flagship,West,Pune,2021-10-21
+STR11,Ahmedabad Standard,Standard,West,Ahmedabad,2021-04-05
+STR12,Bhopal Standard,Standard,Central,Bhopal,2019-11-04
+STR13,Nagpur Warehouse,Warehouse,Central,Nagpur,2018-06-20
+STR14,North Online,Online,North,Online,2020-04-01
+STR15,South Online,Online,South,Online,2020-04-01
+STR16,East Online,Online,East,Online,2020-04-01
+STR17,West Online,Online,West,Online,2020-04-01
+STR18,Central Online,Online,Central,Online,2020-04-01

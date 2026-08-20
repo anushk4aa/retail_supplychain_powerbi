@@ -1,0 +1,51 @@
+ProductKey,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,SupplierKey,LaunchDate
+PRD001,Marlow Mobile 1,Electronics,Mobiles,Marlow,20591.21,37230.73,SUP02,2022-03-02
+PRD002,Orbica Audio 2,Electronics,Audio,Orbica,43939.57,76663.16,SUP02,2022-03-07
+PRD003,Marlow Audio 3,Electronics,Audio,Marlow,7072.94,10911.78,SUP02,2022-12-17
+PRD004,Orbica Laptop 4,Electronics,Laptops,Orbica,29508.13,52665.96,SUP02,2023-10-11
+PRD005,Veylan Audio 5,Electronics,Audio,Veylan,11384.88,18335.12,SUP02,2023-09-14
+PRD006,Marlow Mobile 6,Electronics,Mobiles,Marlow,28977.4,50500.57,SUP02,2023-08-03
+PRD007,Northstar Audio 7,Electronics,Audio,Northstar,43725.36,80040.53,SUP02,2023-04-20
+PRD008,Marlow Accessorie 8,Electronics,Accessories,Marlow,21802.36,27873.72,SUP02,2022-05-17
+PRD009,Orbica Audio 9,Electronics,Audio,Orbica,31212.63,54125.68,SUP02,2022-09-14
+PRD010,Veylan Accessorie 10,Electronics,Accessories,Veylan,17615.0,27395.05,SUP02,2022-08-17
+PRD011,Orbica Winterwear 1,Apparel,Winterwear,Orbica,715.75,1116.0,SUP01,2022-08-20
+PRD012,Kadora Menswear 2,Apparel,Menswear,Kadora,1698.89,3043.12,SUP01,2023-04-14
+PRD013,Pristo Kidswear 3,Apparel,Kidswear,Pristo,1299.57,2327.49,SUP01,2022-11-01
+PRD014,Marlow Winterwear 4,Apparel,Winterwear,Marlow,1222.65,2070.71,SUP01,2022-09-29
+PRD015,Orbica Kidswear 5,Apparel,Kidswear,Orbica,939.71,1179.13,SUP01,2023-07-12
+PRD016,Marlow Winterwear 6,Apparel,Winterwear,Marlow,2556.53,4493.03,SUP01,2023-04-11
+PRD017,Veylan Kidswear 7,Apparel,Kidswear,Veylan,2119.97,2842.6,SUP01,2022-06-21
+PRD018,Veylan Menswear 8,Apparel,Menswear,Veylan,1807.51,2923.47,SUP01,2023-04-13
+PRD019,Marlow Menswear 9,Apparel,Menswear,Marlow,2331.1,3752.67,SUP01,2022-03-05
+PRD020,Marlow Kidswear 10,Apparel,Kidswear,Marlow,398.62,611.43,SUP01,2022-08-01
+PRD021,Orbica Sandal 1,Footwear,Sandals,Orbica,2806.05,5064.11,SUP05,2022-01-25
+PRD022,Marlow Sneaker 2,Footwear,Sneakers,Marlow,2119.47,3053.81,SUP05,2022-02-10
+PRD023,Pristo Formal 3,Footwear,Formal,Pristo,3607.97,6348.35,SUP05,2023-11-29
+PRD024,Veylan Formal 4,Footwear,Formal,Veylan,4995.71,6786.83,SUP05,2022-10-12
+PRD025,Zenlyf Formal 5,Footwear,Formal,Zenlyf,1086.26,1867.86,SUP05,2023-05-03
+PRD026,Pristo Formal 6,Footwear,Formal,Pristo,3305.64,4459.32,SUP05,2022-04-23
+PRD027,Pristo Formal 7,Footwear,Formal,Pristo,3009.24,4506.83,SUP05,2022-06-17
+PRD028,Pristo Sneaker 8,Footwear,Sneakers,Pristo,2553.79,3337.73,SUP05,2023-03-18
+PRD029,Zenlyf Formal 9,Footwear,Formal,Zenlyf,5794.25,10664.77,SUP05,2022-12-13
+PRD030,Veylan Sandal 10,Footwear,Sandals,Veylan,5833.55,10244.81,SUP05,2022-07-06
+PRD031,Pristo Cookware 1,Home & Kitchen,Cookware,Pristo,3732.55,5326.19,SUP04,2022-02-25
+PRD032,Veylan Cookware 2,Home & Kitchen,Cookware,Veylan,3782.27,5225.34,SUP04,2023-09-24
+PRD033,Northstar Appliance 3,Home & Kitchen,Appliances,Northstar,4738.95,6468.2,SUP04,2022-11-21
+PRD034,Zenlyf Appliance 4,Home & Kitchen,Appliances,Zenlyf,5825.84,8918.55,SUP04,2023-06-15
+PRD035,Pristo Cookware 5,Home & Kitchen,Cookware,Pristo,4776.76,7988.65,SUP04,2023-03-17
+PRD036,Marlow Cookware 6,Home & Kitchen,Cookware,Marlow,572.51,899.47,SUP04,2022-10-19
+PRD037,Northstar Cookware 7,Home & Kitchen,Cookware,Northstar,1370.06,1804.66,SUP04,2022-05-03
+PRD038,Marlow Furnishing 8,Home & Kitchen,Furnishing,Marlow,7419.68,12076.94,SUP04,2022-04-30
+PRD039,Northstar Furnishing 9,Home & Kitchen,Furnishing,Northstar,4829.6,6108.59,SUP04,2022-04-17
+PRD040,Veylan Appliance 10,Home & Kitchen,Appliances,Veylan,6316.2,8234.9,SUP04,2022-12-04
+PRD041,Veylan Staple 1,Grocery,Staples,Veylan,309.7,575.91,SUP03,2022-04-23
+PRD042,Kadora Snack 2,Grocery,Snacks,Kadora,182.18,266.99,SUP03,2022-11-28
+PRD043,Kadora Snack 3,Grocery,Snacks,Kadora,280.18,354.16,SUP03,2022-09-12
+PRD044,Zenlyf Beverage 4,Grocery,Beverages,Zenlyf,109.94,177.02,SUP03,2023-09-20
+PRD045,Zenlyf Staple 5,Grocery,Staples,Zenlyf,413.18,592.01,SUP03,2022-06-20
+PRD046,Pristo Snack 6,Grocery,Snacks,Pristo,468.13,617.95,SUP03,2023-05-24
+PRD047,Ecliq Snack 7,Grocery,Snacks,Ecliq,161.22,205.45,SUP03,2022-04-09
+PRD048,Kadora Snack 8,Grocery,Snacks,Kadora,502.98,892.97,SUP03,2022-09-17
+PRD049,Northstar Beverage 9,Grocery,Beverages,Northstar,573.15,824.82,SUP03,2023-03-12
+PRD050,Ecliq Snack 10,Grocery,Snacks,Ecliq,563.54,764.72,SUP03,2022-06-29

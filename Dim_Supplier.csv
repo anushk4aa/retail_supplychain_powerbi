@@ -1,0 +1,6 @@
+SupplierKey,SupplierName,Country,LeadTimeDays,ReliabilityScore
+SUP01,Nova Textiles Ltd,India,12,92
+SUP02,Pacific Electronics Co,China,28,81
+SUP03,Everest Foods Pvt,India,6,95
+SUP04,UrbanCraft Home Goods,Vietnam,20,87
+SUP05,StrideFoot Manufacturing,India,10,90
